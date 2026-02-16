@@ -1,0 +1,1 @@
+Khen ngợi để người khác sống xứng đáng với lời khen đó.

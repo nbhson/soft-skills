@@ -1,0 +1,54 @@
+# Chương 3: Ai làm được điều này người đó sẽ có cả thế giới
+
+> **Nguyên Tắc Cốt Lõi:** Gợi cho người khác ý muốn thực hiện điều bạn muốn họ làm.
+
+### Phân tích chiều sâu (Deep Analysis)
+Carnegie tấn công vào sai lầm lớn nhất trong giao tiếp: **Nói về điều MÌNH muốn.**
+- **Sự ngây thơ:** Thật trẻ con và vô lý khi cứ nói về mong muốn của bản thân. Bạn muốn tiền, muốn người khác làm việc, muốn con cái nghe lời... Nhưng người khác KHÔNG quan tâm đến điều bạn muốn. Họ chỉ quan tâm đến điều **HỌ** muốn.
+- **Nghệ thuật "Móc mồi":** Carnegie dùng hình ảnh đi câu cá: *"Tôi thích ăn kem dâu. Nhưng cá thích ăn giun. Nên tôi không móc kem dâu vào lưỡi câu. Tôi móc giun."*
+- **Chìa khóa ảnh hưởng:** Cách duy nhất để gây ảnh hưởng là **nói về những gì người khác muốn và chỉ cho họ cách đạt được điều đó.** Đừng ép buộc (push), hãy khơi gợi (pull). Làm cho họ *tự nguyện* muốn làm điều đó vì lợi ích của chính họ.
+
+---
+
+## 1. Tại sao phải nói về điều mình muốn?
+Hầu hết chúng ta đều mắc một sai lầm cơ bản: Chúng ta chỉ nói về những điều **chúng ta** muốn. Nhưng thực tế phũ phàng là: Không ai quan tâm đến điều bạn muốn cả. Mọi người đều quan tâm đến điều **họ** muốn.
+
+Vì vậy, cách duy nhất để gây ảnh hưởng đến người khác là:
+1. Nói về điều họ muốn.
+2. Chỉ cho họ cách để đạt được điều đó.
+
+## 2. Dụ cá bằng giun, không phải bằng kem dâu
+Dale Carnegie chia sẻ: *"Cá nhân tôi rất thích ăn dâu tây và kem. Nhưng tôi nhận thấy rằng vì một lý do kỳ lạ nào đó, loài cá lại thích ăn giun. Vì thế, khi đi câu, tôi không mắc vào lưỡi câu món dâu tây và kem mà tôi thích. Tôi dùng giun và châu chấu."*
+
+Tại sao chúng ta không dùng cách "thông thường" đó khi "câu" người?
+
+Đừng nói về việc bạn cần họ làm gì. Hãy nói về việc làm đó sẽ mang lại lợi ích gì cho họ.
+
+## 3. Câu chuyện thực tế
+- **Andrew Carnegie:** Ông trùm thép muốn hai đứa cháu trai đang học đại học ở Yale trả lời thư của mình (chúng mải chơi nên không hồi âm). Ông viết một bức thư thăm hỏi bình thường, nhưng ở phần tái bút, ông viết: *"Ông có gửi kèm theo đây tờ 5 đô la cho các cháu tiêu vặt."* Nhưng ông... "quên" không bỏ tiền vào phong bì. Kết quả? Hai đứa cháu trả lời thư ngay lập tức!
+- **Henry Ford:** *"Nếu có một bí quyết nào để thành công, thì đó là khả năng hiểu được quan điểm của người khác và nhìn sự việc từ góc độ của họ cũng như từ góc độ của chính mình."*
+- **Cha mẹ và con cái:** Đừng cấm con hút thuốc vì "hại phổi" (trẻ con không quan tâm). Hãy nói rằng hút thuốc sẽ khiến con không thể chạy nhanh trong đội bóng, hoặc không thể thắng giải chạy đua (điều con thực sự quan tâm).
+
+## 4. Tự thể hiện bản thân
+William Winter nói: *"Sự tự thể hiện bản thân là nhu cầu thống trị của con người."*
+Khi chúng ta có một ý tưởng hay, thay vì làm cho người khác nghĩ đó là ý tưởng của chúng ta, tại sao không để họ tự "nấu nướng" và khuấy động ý tưởng đó? Họ sẽ xem đó là ý tưởng của chính mình, họ sẽ thích nó và có thể ăn... hai đĩa đầy.
+
+## 5. Hành động áp dụng
+Trước khi bạn muốn thuyết phục ai làm bất cứ điều gì, hãy dừng lại và tự hỏi:
+**"Làm thế nào tôi có thể khiến người này MUỐN làm điều đó?"**
+
+Ví dụ: 
+- Thay vì nói: "Con phải ăn rau vì nó tốt cho sức khỏe".
+- Hãy nói: "Nếu con ăn rau, con sẽ cao lớn và khỏe mạnh như Siêu nhân để bảo vệ mẹ". (Tìm điều đứa trẻ muốn là trở thành Siêu nhân).
+
+---
+## Trích dẫn hay từ tác giả
+> *"Người duy nhất trên trái đất này có thể gây ảnh hưởng đến người khác là người nói về những gì người khác muốn và chỉ cho họ cách để đạt được điều đó."*
+
+> *"Mồi câu phải phù hợp với cá." (Bait the hook to suit the fish.)*
+
+> *"Hành động nảy sinh từ những gì chúng ta khao khát... và lời khuyên hay nhất dành cho những ai muốn thuyết phục người khác, dù là trong kinh doanh, gia đình, trường học hay chính trị, là: Trước hết, hãy khơi gợi ở người kia một ham muốn mãnh liệt. Ai làm được điều này sẽ có cả thế giới. Ai không làm được, sẽ đi một mình."*
+
+> *"Nếu có một bí quyết nào để thành công, thì nó nằm ở khả năng hiểu quan điểm của người khác và nhìn sự việc từ góc độ của người ấy cũng như của chính mình."* - Henry Ford
+
+> *"Tự thể hiện mình là nhu cầu thống trị của con người."* - William Winter
