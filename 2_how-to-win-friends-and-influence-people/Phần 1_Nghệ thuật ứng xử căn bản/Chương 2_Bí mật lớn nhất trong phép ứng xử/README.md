@@ -48,8 +48,10 @@ Chúng ta thường không ngần ngại cung cấp thức ăn để nuôi dư�
 
 > *"Sự khác biệt giữa sự tán dương (appreciation) và lời nịnh hót (flattery)? Thật đơn giản. Một cái là chân thành, cái kia là không chân thành. Một cái đến từ trái tim; cái kia đến từ cửa miệng. Một cái là vô tư; cái kia là ích kỷ. Một cái được mọi người ngưỡng mộ; cái kia bị mọi người lên án."*
 
+> *Hiếm khi sự tâng bốc lại có hiệu quả với những người thông minh/sáng suốt, nó nông cạn, ít kỷ và giả dối*
+
 > *"Tôi coi khả năng kích thích lòng nhiệt tình của mọi người là tài sản lớn nhất mà tôi sở hữu, và cách để phát huy điều tốt nhất ở mỗi người là bằng sự đánh giá cao và khuyến khích."* - Charles Schwab
 
 > *"Động cơ thúc đẩy sâu sắc nhất trong bản tính con người là sự khao khát được trở thành người quan trọng."* - John Dewey
 
-> *"Hãy thành thật trong sự tán thưởng và hào phóng trong lời khen ngợi."* (Be hearty in your approbation and lavish in your praise.)
+> *"Hãy thành thật trong sự tán thưởng và hào phóng trong lời khen ngợi. Họ sẽ nhớ và nhắc đến chúng ta năm này qua năm khác, thậm chí bạn đã quên những gì bạn đã từng nói"* (Be hearty in your approbation and lavish in your praise.)

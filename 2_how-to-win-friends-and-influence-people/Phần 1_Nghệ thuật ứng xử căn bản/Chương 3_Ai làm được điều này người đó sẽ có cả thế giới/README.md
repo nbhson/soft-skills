@@ -1,6 +1,6 @@
 # Chương 3: Ai làm được điều này người đó sẽ có cả thế giới
 
-> **Nguyên Tắc Cốt Lõi:** Gợi cho người khác ý muốn thực hiện điều bạn muốn họ làm.
+> **Nguyên Tắc Cốt Lõi:** Làm thế nào để biến cái mình muốn thành cái người khác muốn? (Mình có thể làm gì để người đó muốn làm điều mình muốn họ làm?)
 
 ### Phân tích chiều sâu (Deep Analysis)
 Carnegie tấn công vào sai lầm lớn nhất trong giao tiếp: **Nói về điều MÌNH muốn.**
@@ -52,3 +52,5 @@ Ví dụ:
 > *"Nếu có một bí quyết nào để thành công, thì nó nằm ở khả năng hiểu quan điểm của người khác và nhìn sự việc từ góc độ của người ấy cũng như của chính mình."* - Henry Ford
 
 > *"Tự thể hiện mình là nhu cầu thống trị của con người."* - William Winter
+
+> *"Đầu tiên hãy khơi dậy người kia một khao khác trông đợi, Người có thể làm điều này có thể sẽ có cả thế giới làm đồng minh"*
