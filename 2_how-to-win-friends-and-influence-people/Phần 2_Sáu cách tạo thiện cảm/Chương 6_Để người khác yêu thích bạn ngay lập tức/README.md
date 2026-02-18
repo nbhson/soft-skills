@@ -30,10 +30,21 @@ Hãy sử dụng thường xuyên những cụm từ lịch sự nhỏ bé này,
 - "Anh có vui lòng..."
 - "Cảm ơn anh rất nhiều."
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Cố gắng hạ thấp người khác để nâng mình lên.
+- Tiết kiệm lời khen nhưng hào phóng lời chê trách, chỉ trích.
+- Coi thường những người có địa vị thấp hơn mình (người phục vụ, bảo vệ...).
+- Quên nói "Cảm ơn" hoặc "Xin lỗi" vì cho rằng không cần thiết.
+
 ## 5. Hành động áp dụng
 1. **Khen người phục vụ:** Khi món ăn ngon, hãy nhắn người phục vụ: "Cho tôi gửi lời khen đến đầu bếp, món này tuyệt vời."
 2. **Khen người thân:** Đừng coi sự hy sinh của vợ/chồng là đương nhiên. Hãy nói: "Cảm ơn em/anh vì bữa cơm ngon này."
 3. **Tìm điểm độc đáo:** Mỗi người đều có một điểm gì đó hơn bạn (kiến thức, kỹ năng, trải nghiệm). Hãy tìm ra nó và thừa nhận nó một cách chân thành.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Hỏi ý kiến:** Luôn hỏi *"Cậu thấy kiến trúc này thế nào? Tôi rất coi trọng góc nhìn của cậu"* (ngay cả với Junior/Mid). Điều này khiến họ cảm thấy mình là một phần quan trọng của team, không phải chỉ là thợ code (coder).
+- **Trao quyền làm chủ (Ownership):** Hãy giao cho Junior chịu trách nhiệm hoàn toàn một module nhỏ và nói: *"Module này rất quan trọng với dự án, và anh tin em có đủ khả năng để làm tốt nó"*. Họ sẽ làm việc 200% sức lực để xứng đáng với niềm tin đó.
+- **Biết ơn những "Người hùng thầm lặng":** Cảm ơn đội ngũ Ops đã trực đêm deploy, cảm ơn QA đã bắt những con bug khó chịu. Họ thường ít được nhắc đến khi thành công, hãy là người thay đổi điều đó.
 
 ---
 ## Trích dẫn hay từ tác giả

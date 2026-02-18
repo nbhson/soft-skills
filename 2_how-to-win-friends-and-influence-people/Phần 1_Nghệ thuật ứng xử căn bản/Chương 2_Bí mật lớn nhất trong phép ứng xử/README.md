@@ -37,10 +37,21 @@ Chúng ta thường không ngần ngại cung cấp thức ăn để nuôi dư�
 
 > *"Tôi sẽ đi qua cuộc đời này chỉ một lần. Vì vậy, bất cứ điều tốt đẹp nào tôi có thể làm, hoặc bất cứ niềm vui nào tôi có thể mang lại cho bất kỳ ai, hãy để tôi làm điều đó ngay bây giờ. Đừng để tôi hoãn lại hay bỏ qua, vì tôi sẽ không đi qua con đường này một lần nữa."*
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Sử dụng lời nịnh hót giả tạo, sáo rỗng để trục lợi ngắn hạn.
+- Chi li lời khen nhưng lại hào phóng sự chỉ trích, chê bai.
+- Coi sự nỗ lực và đóng góp của người khác là điều hiển nhiên ("Họ được trả tiền để làm việc đó mà!").
+- Sợ rằng khen người khác sẽ khiến mình thấp kém hơn.
+
 ## 5. Hành động áp dụng
 1. **Tìm điểm tốt:** Thay vì soi mói lỗi lầm, hãy cố gắng tìm ra những điểm tốt của người khác để khen ngợi.
 2. **Khen ngợi cụ thể:** Đừng khen chung chung "Bạn làm tốt lắm". Hãy khen cụ thể: "Báo cáo này trình bày rất rõ ràng và logic, tôi rất thích cách bạn phân tích số liệu ở trang 5".
 3. **Biết ơn những điều nhỏ nhặt:** Hãy nói "Cảm ơn" với người phục vụ bàn, người giữ xe, hay đồng nghiệp đã giúp đỡ bạn một việc nhỏ.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Khen ngợi Code:** Khi thấy đồng nghiệp viết một đoạn code sạch, logic hay, hãy comment ngay vào PR: *"Đoạn xử lý này rất thông minh, tôi học được nhiều từ nó"*.
+- **Ghi nhận đóng góp:** Trong các buổi retrospective, hãy công khai cảm ơn những người đã giúp đỡ mình, dù là việc nhỏ như fix một cái typo hay setup môi trường giúp.
+- **Động viên Junior:** Junior thường thiếu tự tin. Một câu nói *"Em làm tốt lắm, logic rất chắc chắn"* của Senior sẽ là nguồn động lực khổng lồ cho họ, hơn cả việc tăng lương.
 
 ---
 ## Trích dẫn hay từ tác giả

@@ -29,10 +29,21 @@ Cách ông làm:
 2. Nếu tên lạ, ông hỏi: *"Tên này viết như thế nào?"*.
 3. Trong lúc nói chuyện, ông lặp lại cái tên đó nhiều lần trong đầu, kết hợp với đặc điểm khuôn mặt của người đó.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Lấy lý do "Tôi có trí nhớ kém" hoặc "Tôi quá bận" để biện hộ cho việc quên tên.
+- Không chịu hỏi lại khi chưa nghe rõ tên vì sợ phiền hoặc sợ bị đánh giá.
+- Viết sai tên hoặc gọi sai tên người khác mà không xin lỗi, coi đó là chuyện nhỏ.
+- Không coi trọng cái tên của người khác (đặc biệt là người có địa vị thấp hơn).
+
 ## 4. Hành động áp dụng
 1. **Hỏi lại nếu chưa rõ:** Đừng ngại hỏi "Bạn đánh vần tên mình như thế nào?" nếu cái tên khó nghe. Mọi người thích được giải thích về tên mình.
 2. **Lặp lại tên:** Trong cuộc trò chuyện, hãy gọi tên họ ít nhất 3 lần. "Chào Lan, Lan nghĩ sao về vấn đề này? Cảm ơn Lan, ý kiến rất hay."
 3. **Ghi chú:** Sau khi gặp ai đó quan trọng, hãy ghi lại tên họ vào điện thoại ngay lập tức, kèm theo vài đặc điểm nhận dạng.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Nhớ tên mọi người:** Đừng chỉ nhớ tên Dev. Hãy nhớ tên Tester, BA, PM, anh DevOps, chú bảo vệ, cô tạp vụ. Khi bạn chào *"Chào chú Bảy"*, bạn tạo ra một sự kết nối và tôn trọng to lớn.
+- **Code cũng cần có tên:** Đặt tên biến, hàm, class cho đàng hoàng, có nghĩa. Đó là cách bạn tôn trọng người đọc code (đồng nghiệp và chính bạn trong tương lai). Đừng đặt `a`, `b`, `tmp`. Hãy đặt `userBalance`, `calculateTax()`.
+- **Giao tiếp online:** Trong chat group (Slack/Discord), hãy tag tên hoặc gọi tên cụ thể thay vì nói trổng *"Ai review giúp PR này với"*. Hãy nói: *"@Tuan, em rảnh không review giúp anh PR này nhé"*. Hiệu quả sẽ cao hơn hẳn.
 
 ---
 ## Trích dẫn hay từ tác giả

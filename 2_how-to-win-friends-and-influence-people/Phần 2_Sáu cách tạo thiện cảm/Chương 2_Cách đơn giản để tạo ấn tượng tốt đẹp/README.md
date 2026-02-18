@@ -31,10 +31,21 @@ Một nụ cười gượng gạo, nhếch mép? Không, ai cũng nhận ra đi�
 ## 4. Câu chuyện thực tế
 - **William Steinhardt:** Một người chơi chứng khoán ở New York, ông thú nhận rằng mình hiếm khi mỉm cười với vợ. Ông quyết định thay đổi. Sáng hôm sau, ông nhìn vào gương và tự nhủ: "Hôm nay Bill, mày phải cười nhé!". Ông mỉm cười chào vợ, chào người gác thang máy, chào nhân viên thu ngân. Kết quả? Ông thấy hạnh phúc hơn, gia đình êm ấm hơn, và công việc kinh doanh cũng tốt hơn vì mọi người đều thích làm việc với người vui vẻ.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Giữ vẻ mặt cau có, nghiêm trọng hoặc lạnh lùng với mọi người.
+- Chờ đợi người khác cười trước rồi mới cười đáp lại (hoặc không).
+- Dùng nụ cười giả tạo (nhếch mép) để xã giao, thiếu sự chân thành.
+- Mang những bực dọc của công việc về nhà và trút lên gương mặt trước người thân.
+
 ## 5. Hành động áp dụng
 1. **Mỉm cười mỗi sáng:** Hãy bắt đầu ngày mới bằng việc mỉm cười với chính mình trong gương.
 2. **Cười khi nghe điện thoại:** Người nghe không nhìn thấy bạn, nhưng họ **nghe** thấy nụ cười trong giọng nói của bạn.
 3. **Trao nụ cười cho người lạ:** Hãy thử mỉm cười với người thu ngân siêu thị, chú bảo vệ, hay người đi cùng thang máy.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Daily Standup:** Đừng mang bộ mặt mệt mỏi, đưa đám vào buổi họp sáng. Một nụ cười và giọng nói năng lượng của bạn sẽ lan tỏa năng lượng tích cực cho cả team, giúp họ bắt đầu ngày mới hào hứng hơn.
+- **Phỏng vấn:** Khi phỏng vấn ứng viên, hãy cười để họ bớt căng thẳng. Ứng viên (có thể là đồng nghiệp tương lai) sẽ đánh giá cao văn hóa cởi mở của team bạn. Bạn sẽ "mua" được lòng họ ngay cả khi chưa hire.
+- **Video Call:** Bật camera và cười chào mọi người khi join meeting. Nó tạo kết nối cảm xúc tốt hơn gấp ngàn lần so với một màn hình đen ngòm và giọng nói vô hồn.
 
 ---
 ## Trích dẫn hay từ tác giả

@@ -23,9 +23,20 @@ Vài ngày sau, bộ phận bếp gọi điện đặt hàng. Ông Duvernoy đã
 Nói về điều người khác quan tâm không chỉ giúp bạn đạt được mục đích, mà còn giúp bạn mở rộng kiến thức. Bạn học được những điều mới mẻ từ lĩnh vực của họ.
 Và quan trọng hơn, bạn làm phong phú thêm cuộc sống của người đối diện khi cho họ cơ hội chia sẻ đam mê.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Ép buộc người khác nghe về những sở thích/vấn đề của mình dù họ không quan tâm.
+- Không chịu tìm hiểu xem người đối diện thích gì, quan tâm gì.
+- Bước vào cuộc trò chuyện mà không có sự chuẩn bị nào.
+- Thất vọng khi người khác không hứng thú với chủ đề của mình.
+
 ## 4. Hành động áp dụng
 1. **Tìm hiểu trước:** Trước khi gặp đối tác hay bạn bè, hãy lướt qua Facebook/LinkedIn của họ xem họ đang quan tâm chủ đề gì (du lịch, con cái, bóng đá...).
 2. **Quan sát:** Khi vào phòng làm việc hay nhà ai đó, hãy nhìn tranh ảnh, sách báo để đoán sở thích của họ và bắt đầu câu chuyện từ đó.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Nói chuyện với Non-Tech (Kinh doanh/Marketing):** Đừng thao thao bất tuyệt về Kubernetes, Microservices, hay sự ưu việt của Rust. Họ không hiểu và không quan tâm. Hãy nói ngôn ngữ của họ: *"Giải pháp này sẽ giúp chúng ta ra mắt tính năng nhanh hơn 2 tuần (Time to market)", "Cái này giúp tiết kiệm 30% chi phí server (Cost saving)", "Cái này giúp trải nghiệm người dùng mượt mà hơn (UX)"*.
+- **Documentation:** Viết tài liệu cho người đọc, không phải cho mình. Đừng chỉ mô tả "Hàm này làm gì". Hãy mô tả "Hàm này giúp bạn giải quyết vấn đề gì, trong trường hợp nào".
+- **Giao tiếp xã hội:** Nếu đồng nghiệp thích đá bóng, hãy dùng ví dụ bóng đá để giải thích một khái niệm kỹ thuật phức tạp (ví dụ: Load Balancer giống như một tiền vệ điều phối bóng). Họ sẽ hiểu ngay và ấn tượng với bạn.
 
 ---
 ## Trích dẫn hay từ tác giả

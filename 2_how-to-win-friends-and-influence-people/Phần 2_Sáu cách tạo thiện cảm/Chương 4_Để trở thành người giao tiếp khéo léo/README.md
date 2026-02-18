@@ -26,9 +26,20 @@ Một người hòa giải được cử đến. Anh ta không tranh cãi, chỉ
 - **Khuyến khích họ nói:** Đặt những câu hỏi mở: "Rồi sao nữa?", "Thật sao?", "Bạn cảm thấy thế nào lúc đó?".
 - **Đừng ngắt lời:** Hãy để họ nói hết ý. Sự im lặng của bạn là lời khen ngợi lớn nhất dành cho họ.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Ngắt lời người khác giữa chừng để chen ngang câu chuyện của mình.
+- Trong khi người khác nói, tâm trí chỉ chăm chăm nghĩ xem mình sẽ nói gì tiếp theo.
+- Thao thao bất tuyệt về thành tích của mình mà không để người khác nói câu nào.
+- Chỉ lắng nghe những gì mình muốn nghe.
+
 ## 4. Hành động áp dụng
 1. **Thử thách im lặng:** Trong cuộc trò chuyện tiếp theo, hãy thử nói ít hơn 30% và dành 70% thời gian để lắng nghe.
 2. **Đặt câu hỏi về thành tựu:** "Làm thế nào bạn đạt được điều đó?", "Kỷ niệm đáng nhớ nhất của bạn là gì?". Mọi người đều thích nói về thành công của mình.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Requirement Gathering (Lấy yêu cầu):** Khi PM hoặc User than phiền về vấn đề, hãy lắng nghe kỹ trước khi nhảy vào giải pháp kỹ thuật. Đừng vội nói *"Cái này dễ, dùng Redis là xong"*. Hãy hỏi: *"Vấn đề này ảnh hưởng thế nào đến quy trình làm việc của anh?"*. Hiểu rõ vấn đề (Problem) là 50% giải pháp.
+- **1-on-1 với Junior:** Khi mentoring, hãy lắng nghe tâm tư, khó khăn của mentee. Đừng biến buổi 1-on-1 thành buổi thuyết giảng về "Kinh nghiệm thời trẻ của anh". Hãy để họ nói về nỗi sợ, về hy vọng của họ.
+- **Trong cuộc họp:** Đừng ngắt lời người khác, dù bạn nghĩ ý kiến mình hay hơn. Hãy ghi chú lại và nói *"Tôi rất thích ý của bạn A, và tôi muốn bổ sung thêm..."*. Ai cũng thích người biết tôn trọng ý kiến của mình.
 
 ---
 ## Trích dẫn hay từ tác giả

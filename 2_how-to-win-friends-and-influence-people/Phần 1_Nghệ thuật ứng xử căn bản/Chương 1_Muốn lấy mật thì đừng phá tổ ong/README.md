@@ -37,11 +37,22 @@ Thay vì lên án người khác, hãy cố gắng hiểu họ. Hãy tìm hiểu
 
 **"Biết mọi thứ là tha thứ mọi thứ."**
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Chỉ trích, lên án và phàn nàn.
+- Đổ lỗi cho người khác về những sai lầm của chính mình.
+- Phản ứng bằng sự giận dữ và cái tôi bản năng thay vì sự thấu hiểu.
+- Cố gắng chứng minh mình đúng bằng cách dìm người khác xuống.
+
 ## 5. Hành động áp dụng
 Để áp dụng nguyên tắc này vào cuộc sống hàng ngày:
 1. **Kiểm soát cơn giận:** Khi muốn chỉ trích ai đó, hãy dừng lại 5 giây. Tự hỏi: "Nếu mình ở vị trí của họ, mình sẽ cảm thấy thế nào?".
 2. **Viết thư nhưng đừng gửi:** Nếu quá tức giận, hãy viết hết những bực dọc ra giấy (hoặc email) để xả stress, nhưng hãy để đó và **đừng gửi đi ngay**. Ngày mai đọc lại, bạn sẽ thấy mình may mắn vì đã không gửi.
 3. **Khen ngợi trước:** Nếu bắt buộc phải góp ý, hãy bắt đầu bằng sự thấu hiểu và ghi nhận những nỗ lực của họ trước.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Code Review:** Thay vì comment "Code này tệ quá", "Logic sai bét", hãy hỏi: *"Tại sao bạn lại chọn cách tiếp cận này? Có cách nào tối ưu hơn không?"*. Khi tìm thấy bug, đừng blame (đổ lỗi), hãy tập trung vào giải pháp.
+- **Mentorship:** Khi Junior làm sập Production, đừng mắng nhiếc. Họ đã đủ hoảng sợ rồi. Hãy ngồi xuống cùng họ fix lỗi, và sau đó hướng dẫn họ cách phòng tránh (viết test, check log). Sự bao dung của bạn sẽ tạo ra một đồng minh trung thành.
+- **Giao tiếp với Tester/QA:** Đừng coi họ là kẻ vạch lá tìm sâu. Hãy coi họ là những người bảo vệ bạn khỏi việc release lỗi. Khi họ báo bug, hãy nói: *"Cảm ơn đã bắt được lỗi này giúp tôi"*.
 
 ---
 ## Trích dẫn hay từ tác giả

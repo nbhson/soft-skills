@@ -24,10 +24,21 @@ Vì vậy, cách duy nhất để gây thiện cảm là: **Quên bản thân đ
 - **Dược sĩ ở Philadelphia:** Ông đã làm khách hàng trung thành với một nhà cung cấp trong nhiều năm chỉ vì người bán hàng mới luôn dành vài phút để hỏi thăm về sở thích trồng hoa đỗ quyên của ông mỗi khi ghé thăm. Sự quan tâm chân thành đến sở thích cá nhân đã đánh bại mọi đối thủ cạnh tranh về giá cả.
 - **Roosevelt:** Ngay cả khi đã là Tổng thống, ông vẫn nhớ tên và hỏi thăm từng người làm vườn, người giúp việc trong Nhà Trắng. Ông biết họ thích ăn món gì, gia đình họ ra sao. Đó là lý do tại sao mọi người đều yêu mến ông.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Cố gắng gây ấn tượng với người khác bằng cách khoe khoang về thành tích của mình.
+- Chỉ quan tâm đến bản thân và những vấn đề của riêng mình (cái tôi quá lớn).
+- Quên rằng người khác cũng có những nỗi lo, niềm vui và sự quan tâm riêng cần được chia sẻ.
+- Chờ người khác quan tâm đến mình trước.
+
 ## 4. Hành động áp dụng
 1. **Ghi nhớ ngày sinh nhật:** Hãy ghi chú ngày sinh nhật của bạn bè và gửi lời chúc mừng (dù chỉ là tin nhắn) đúng ngày.
 2. **Chào hỏi nhiệt tình:** Khi nghe điện thoại, hãy nói "Alo" với giọng điệu vui vẻ, cho người gọi cảm thấy bạn thực sự vui mừng khi nghe giọng họ.
 3. **Thực sự lắng nghe:** Khi ai đó kể chuyện, hãy bỏ điện thoại xuống và lắng nghe. Hỏi thêm về chi tiết câu chuyện của họ.
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Onboarding:** Khi có nhân viên mới, đừng chỉ ném cho họ cái doc setup môi trường và bảo "Đọc đi". Hãy dành thời gian ngồi cùng, hỏi han về sở thích, background của họ, giúp họ setup máy. Sự quan tâm ban đầu này tạo ra sự gắn kết cực lớn.
+- **Team Bonding:** Đừng chỉ nói chuyện công việc (ticket, bug). Hãy quan tâm xem cuối tuần đồng nghiệp làm gì, con cái họ thế nào (nếu họ muốn chia sẻ). Một team gắn kết về mặt con người sẽ làm việc hiệu quả hơn nhiều.
+- **Chủ động hỗ trợ:** Khi thấy đồng nghiệp bị kẹt (block) quá lâu, hãy chủ động hỏi: *"Có cần tôi giúp gì không?"* hoặc *"Vấn đề này tôi từng gặp, cậu có muốn tôi gợi ý không?"* thay vì chờ họ kêu cứu.
 
 ---
 ## Trích dẫn hay từ tác giả

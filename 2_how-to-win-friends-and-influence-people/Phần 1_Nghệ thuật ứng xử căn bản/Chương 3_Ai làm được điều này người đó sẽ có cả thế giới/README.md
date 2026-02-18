@@ -33,6 +33,12 @@ Tại sao chúng ta không dùng cách "thông thường" đó khi "câu" ngư�
 William Winter nói: *"Sự tự thể hiện bản thân là nhu cầu thống trị của con người."*
 Khi chúng ta có một ý tưởng hay, thay vì làm cho người khác nghĩ đó là ý tưởng của chúng ta, tại sao không để họ tự "nấu nướng" và khuấy động ý tưởng đó? Họ sẽ xem đó là ý tưởng của chính mình, họ sẽ thích nó và có thể ăn... hai đĩa đầy.
 
+## 🚫 Những kẻ ngốc thường làm gì?
+- Thao thao bất tuyệt về những gì **mình** muốn, **mình** thích, **mình** cần.
+- Cố gắng ép buộc người khác làm việc bằng quyền lực hoặc sự dọa nạt.
+- Cho rằng người khác phải quan tâm đến vấn đề của mình chỉ vì nó quan trọng với mình.
+- Bước vào cuộc trò chuyện với tư duy "Tôi thắng - Bạn thua".
+
 ## 5. Hành động áp dụng
 Trước khi bạn muốn thuyết phục ai làm bất cứ điều gì, hãy dừng lại và tự hỏi:
 **"Làm thế nào tôi có thể khiến người này MUỐN làm điều đó?"**
@@ -40,6 +46,11 @@ Trước khi bạn muốn thuyết phục ai làm bất cứ điều gì, hãy d
 Ví dụ: 
 - Thay vì nói: "Con phải ăn rau vì nó tốt cho sức khỏe".
 - Hãy nói: "Nếu con ăn rau, con sẽ cao lớn và khỏe mạnh như Siêu nhân để bảo vệ mẹ". (Tìm điều đứa trẻ muốn là trở thành Siêu nhân).
+
+## 👨‍💻 Áp dụng cho Senior Developer
+- **Thuyết phục Sếp:** Đừng nói *"Tôi muốn refactor code vì nhìn nó ngứa mắt"*. Hãy nói: *"Nếu chúng ta dành 2 ngày refactor module này, tốc độ phát triển tính năng mới sẽ tăng 30% và giảm 50% bug tiềm ẩn. Sếp thấy sao?"* (Nói về lợi ích của Sếp).
+- **Thuyết phục Team:** Khi muốn đưa công nghệ mới vào, đừng nói *"Tao thích cái này"*. Hãy nói: *"Công nghệ này sẽ giúp anh em giảm bớt 50% thời gian viết boilerplate code, anh em sẽ có nhiều thời gian rảnh hơn để... uống cafe"*.
+- **Review lương:** Đừng nói *"Tôi muốn tăng lương vì vật giá leo thang"*. Hãy nói về những giá trị bạn đã mang lại cho công ty (tăng performance, giảm chi phí server) và hỏi *"Làm thế nào để mức lương của tôi phản ánh đúng những giá trị đó?"*.
 
 ---
 ## Trích dẫn hay từ tác giả
