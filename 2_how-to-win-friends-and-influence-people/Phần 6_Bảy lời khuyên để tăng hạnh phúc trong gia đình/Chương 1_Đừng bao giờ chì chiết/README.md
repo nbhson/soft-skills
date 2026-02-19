@@ -33,8 +33,12 @@ Khi bạn muốn phàn nàn về việc chồng/vợ làm sai:
 4. **Thay thế:** Thay vì nói "Anh không bao giờ dọn nhà", hãy nói "Em sẽ rất vui nếu anh giúp em dọn cái này".
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Toxic Co-worker:** Đừng bao giờ trở thành kẻ hay than vãn (Complainer) trong công ty. Đừng chì chiết về chính sách công ty, về sếp, về lương lậu, về khách hàng ngu ngốc... mỗi ngày. Sự chì chiết này lan truyền năng lượng tiêu cực (Toxic Energy) và giết chết động lực của cả team. Mọi người sẽ lảng tránh bạn như Lincoln lảng tránh vợ ông.
-- **Code Review:** Khi review code của Junior, nếu họ mắc cùng một lỗi nhiều lần. Đừng comment kiểu đây nghiến: *"Lại sai nữa à?", "Nói mãi rồi mà không sửa", "Vẫn chứng nào tật nấy"*. Thay vào đó, hãy tìm giải pháp hệ thống: *"Lỗi này lặp lại khá nhiều, anh nghĩ mình nên viết một cái custom linter rule hoặc update document để mọi người dễ check hơn. Em nghĩ sao?"*. Giải quyết vấn đề, đừng tấn công con người.
+1. **Toxic Co-worker:** Đừng bao giờ trở thành kẻ hay than vãn (Complainer) trong công ty. Đừng chì chiết về chính sách công ty, về sếp, về lương lậu, về khách hàng ngu ngốc... mỗi ngày. Sự chì chiết này lan truyền năng lượng tiêu cực (Toxic Energy) và giết chết động lực của cả team. Mọi người sẽ lảng tránh bạn như Lincoln lảng tránh vợ ông.
+2. **Code Review:** Khi review code của Junior, nếu họ mắc cùng một lỗi nhiều lần. Đừng comment kiểu đây nghiến: *"Lại sai nữa à?", "Nói mãi rồi mà không sửa", "Vẫn chứng nào tật nấy"*. Thay vào đó, hãy tìm giải pháp hệ thống: *"Lỗi này lặp lại khá nhiều, anh nghĩ mình nên viết một cái custom linter rule hoặc update document để mọi người dễ check hơn. Em nghĩ sao?"*. Giải quyết vấn đề, đừng tấn công con người.
+3. **Vendor Management:** Khi làm việc với 3rd party (nhà cung cấp API, Library). Nếu dịch vụ của họ chập chờn, đừng gửi email chửi rủa hàng ngày. Hãy thu thập log, bằng chứng cụ thể và gửi một email "Escalation" chuyên nghiệp yêu cầu Root Cause Analysis và SLA commitment. Sự chuyên nghiệp hiệu quả hơn sự chì chiết.
+4. **Meeting Etiquette:** Trong cuộc họp, đừng là người luôn nhắc lại những thất bại cũ rích. *"Nhớ năm ngoái team mình làm fail dự án kia không, tôi đã bảo rồi mà..."*. Hãy tập trung vào hiện tại và tương lai. Quá khứ chỉ để học hỏi, không phải để đay nghiến.
+5. **Self-Compassion (Đừng tự chì chiết mình):** Khi bạn làm sai (gây bug, trễ hẹn). Đừng tự chửi rủa mình *"Sao mình ngu thế", "Mình vô dụng quá"*. Hãy coi đó là bài học, rút kinh nghiệm và move on. Tự dằn vặt chỉ làm giảm hiệu suất làm việc.
+6. **Automate the "Nagging":** Nếu bạn thấy mình phải nhắc đi nhắc lại team về việc format code, viết test, check style... Hãy để máy làm việc đó. Cài đặt pre-commit hooks, CI pipelines. Để máy "chì chiết" (báo đỏ) thì dễ chịu hơn là người chì chiết.
 
 ---
 ## Trích dẫn hay từ tác giả

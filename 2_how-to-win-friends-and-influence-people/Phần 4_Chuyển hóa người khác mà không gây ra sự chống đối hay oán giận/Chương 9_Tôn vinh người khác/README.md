@@ -27,15 +27,18 @@ Nguyên tắc là: **Dù bạn nhờ vả hay từ chối, hãy làm cho đối 
 
 ## 3. Hành động áp dụng
 Trước khi yêu cầu ai làm gì, hãy tự hỏi: **"Họ được lợi gì khi làm việc này?"**.
-Lợi ích không nhất thiết là tiền. Nó có thể là:
+30. Lợi ích không nhất thiết là tiền. Nó có thể là:
 - **Danh tiếng:** Phong chức danh, khen ngợi công khai.
 - **Sự tự hào:** "Chỉ có em mới làm được việc này thôi".
 - **Sự giúp đỡ:** "Em làm việc này là giúp đỡ cho cả team đỡ vất vả".
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Viết Document:** Đây là việc dev nào cũng ghét. Đừng ép. Hãy nói: *"Em viết document cho module này đi. Sau này ai vào sau đọc doc của em cũng sẽ biết ơn em lắm đấy. Em sẽ là người đặt nền móng tri thức cho project này, và document của em sẽ là chuẩn mực cho cả team noi theo."*.
-- **Trực Server (On-call):** *"Tuần này em trực on-call nhé. Dự án đang giai đoạn nhạy cảm sắp release, cần người cứng tay và bình tĩnh như em trực anh mới yên tâm ngủ ngon được. Có gì em cứ hú anh hỗ trợ."*.
-- **Mentor người mới:** *"Anh muốn nhờ em mentor cho bạn intern mới nay. Em có kỹ năng truyền đạt rất tốt. Đây cũng là bước đệm để em tập dượt cho vị trí Lead sau này."*.
+1. **Viết Document:** Đây là việc dev nào cũng ghét. Đừng ép. Hãy nói: *"Em viết document cho module này đi. Sau này ai vào sau đọc doc của em cũng sẽ biết ơn em lắm đấy. Em sẽ là người đặt nền móng tri thức cho project này, và document của em sẽ là chuẩn mực cho cả team noi theo."*.
+2. **Trực Server (On-call):** *"Tuần này em trực on-call nhé. Dự án đang giai đoạn nhạy cảm sắp release, cần người cứng tay và bình tĩnh như em trực anh mới yên tâm ngủ ngon được. Có gì em cứ hú anh hỗ trợ."*.
+3. **Mentor người mới:** *"Anh muốn nhờ em mentor cho bạn intern mới nay. Em có kỹ năng truyền đạt rất tốt. Đây cũng là bước đệm để em tập dượt cho vị trí Lead sau này."*.
+4. **Research Spike:** *"Sếp đang muốn team áp dụng Vue 3. Anh muốn giao nhiệm vụ nghiên cứu này cho em. Em sẽ là người tiên phong (Pioneer) đưa công nghệ mới vào công ty. Sau này cả công ty sẽ dùng cái framework do em setup."*. Appeal to the feeling of being a pioneer/innovator.
+5. **Interviewing:** *"Team nhân sự cần tuyển người giỏi, mà họ không có chuyên môn để lọc. Anh cần em join phỏng vấn vì em có tiêu chuẩn rất cao (high bar). Em giúp anh lọc ra những hạt giống tốt nhất nhé."*.
+6. **Facilitating Meetings (Điều phối họp):** *"Hôm nay anh hơi bận, em giúp anh điều phối buổi Retrospective nhé. Anh thấy em có khiếu dẫn dắt mọi người chia sẻ cởi mở. Em làm MC là hợp nhất"*. Trao quyền và niềm vui khi được làm người dẫn đầu.
 
 ---
 ## Trích dẫn hay từ tác giả

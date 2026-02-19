@@ -43,9 +43,12 @@ Một nụ cười gượng gạo, nhếch mép? Không, ai cũng nhận ra đi�
 3. **Trao nụ cười cho người lạ:** Hãy thử mỉm cười với người thu ngân siêu thị, chú bảo vệ, hay người đi cùng thang máy.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Daily Standup:** Đừng mang bộ mặt mệt mỏi, đưa đám vào buổi họp sáng. Một nụ cười và giọng nói năng lượng của bạn sẽ lan tỏa năng lượng tích cực cho cả team, giúp họ bắt đầu ngày mới hào hứng hơn.
-- **Phỏng vấn:** Khi phỏng vấn ứng viên, hãy cười để họ bớt căng thẳng. Ứng viên (có thể là đồng nghiệp tương lai) sẽ đánh giá cao văn hóa cởi mở của team bạn. Bạn sẽ "mua" được lòng họ ngay cả khi chưa hire.
-- **Video Call:** Bật camera và cười chào mọi người khi join meeting. Nó tạo kết nối cảm xúc tốt hơn gấp ngàn lần so với một màn hình đen ngòm và giọng nói vô hồn.
+1. **Daily Standup:** Đừng mang bộ mặt mệt mỏi, đưa đám vào buổi họp sáng. Một nụ cười và giọng nói năng lượng của bạn sẽ lan tỏa năng lượng tích cực cho cả team, giúp họ bắt đầu ngày mới hào hứng hơn.
+2. **Phỏng vấn:** Khi phỏng vấn ứng viên, hãy cười để họ bớt căng thẳng. Ứng viên (có thể là đồng nghiệp tương lai) sẽ đánh giá cao văn hóa cởi mở của team bạn. Bạn sẽ "mua" được lòng họ ngay cả khi chưa hire.
+3. **Video Call:** Bật camera và cười chào mọi người khi join meeting. Nó tạo kết nối cảm xúc tốt hơn gấp ngàn lần so với một màn hình đen ngòm và giọng nói vô hồn.
+4. **Tone in Code Reviews:** Text thuần túy rất dễ gây hiểu lầm là thô lỗ. Hãy sử dụng Emoji thường xuyên để làm mềm giọng điệu. Một cái like 👍, heart ❤️, hay rocket 🚀 có thể biến một lời nhận xét khô khan thành một sự động viên. Ví dụ: *"Great catch! 🐛"* thân thiện hơn nhiều so với *"Bug found here"*.
+5. **Profile Picture:** Hãy để một tấm ảnh đại diện (avatar) mỉm cười, thân thiện trên Slack, Jira, GitHub. Nó khiến bạn trở nên "approachable" (dễ gần) hơn. Đừng để avatar quả trứng hoặc hình anime u tối nếu bạn muốn xây dựng hình ảnh chuyên nghiệp và thân thiện.
+6. **Positive Feedback Loop:** Hãy là người tạo ra "hiệu ứng lan truyền tích cực". Khi một bug khó được fix, khi release thành công, hãy cười và high-five (đập tay) hoặc chúc mừng team. Nụ cười của Tech Lead là tín hiệu an toàn cho cả team: "Mọi việc vẫn ổn, cứ tiếp tục chiến đấu!".
 
 ---
 ## Trích dẫn hay từ tác giả

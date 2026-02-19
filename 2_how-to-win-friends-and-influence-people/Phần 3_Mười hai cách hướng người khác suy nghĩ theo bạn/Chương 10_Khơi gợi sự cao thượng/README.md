@@ -33,9 +33,12 @@ Khi muốn thuyết phục ai đó (đặc biệt trong tranh chấp):
 3. **Chuyển trọng tâm:** Thay vì nói "Làm vì tôi đi" (ích kỷ), hãy nói "Làm vì cộng đồng/tương lai/con cái..." (cao thượng).
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Khơi gợi Tinh thần Trách nhiệm:** Khi ai đó lười biếng hoặc trễ deadline, đừng mắng mỏ hay dọa cắt thưởng. Hãy nói: *"Tôi đã quan sát cậu từ lâu, tôi biết cậu là người rất có trách nhiệm và luôn đặt chất lượng lên hàng đầu. Team đang gặp khó khăn ở sprint này, và tôi tin tưởng cậu sẽ không để anh em thất vọng. Cậu là chỗ dựa của mọi người lúc này đấy."*.
-- **Về Chất lượng Code (Clean Code):** *"Rất dễ để viết code chạy được, nhưng rất khó để viết code đẹp và bền vững. Chúng ta là những Kỹ sư chuyên nghiệp (Professional Engineers), không phải là thợ code (Code Monkeys). Chúng ta viết ra những tác phẩm nghệ thuật, để 5 năm sau người khác đọc lại vẫn phải trầm trồ kính nể."*. Lời nói này đánh vào lòng tự tôn nghề nghiệp cực mạnh.
-- **Khi Review, Estimate:** *"Tôi tin tưởng vào lời hứa của cậu khi nhận task này. Tôi biết cậu là người nói được làm được."*.
+1. **Khơi gợi Tinh thần Trách nhiệm:** Khi ai đó lười biếng hoặc trễ deadline, đừng mắng mỏ hay dọa cắt thưởng. Hãy nói: *"Tôi đã quan sát cậu từ lâu, tôi biết cậu là người rất có trách nhiệm và luôn đặt chất lượng lên hàng đầu. Team đang gặp khó khăn ở sprint này, và tôi tin tưởng cậu sẽ không để anh em thất vọng. Cậu là chỗ dựa của mọi người lúc này đấy."*.
+2. **Về Chất lượng Code (Clean Code):** *"Rất dễ để viết code chạy được, nhưng rất khó để viết code đẹp và bền vững. Chúng ta là những Kỹ sư chuyên nghiệp (Professional Engineers), không phải là thợ code (Code Monkeys). Chúng ta viết ra những tác phẩm nghệ thuật, để 5 năm sau người khác đọc lại vẫn phải trầm trồ kính nể."*. Lời nói này đánh vào lòng tự tôn nghề nghiệp cực mạnh.
+3. **Khi Review, Estimate:** *"Tôi tin tưởng vào lời hứa của cậu khi nhận task này. Tôi biết cậu là người nói được làm được."*.
+4. **Software Craftsmanship:** Khơi gợi niềm tự hào của một người thợ lành nghề. *"Chúng ta không fix bug này bằng cách hack (băng keo), chúng ta sẽ refactor nó đàng hoàng vì đó là cách những kỹ sư xịn làm việc"*.
+5. **Trust and Integrity:** *"Tôi không cần check time-tracking của team, vì tôi biết mọi người ở đây đều là người lớn và tự giác. Mọi người làm việc vì đam mê và trách nhiệm chứ không phải để đối phó"*. Khi được tin tưởng tuyệt đối, nhân viên thường có xu hướng làm việc chăm chỉ hơn để xứng đáng với niềm tin đó.
+6. **User Privacy/Security:** *"Chúng ta mã hóa dữ liệu này không phải vì luật nó bắt thế, mà vì chúng ta tôn trọng quyền riêng tư của khách hàng. Khách hàng tin tưởng giao thông tin cho chúng ta, chúng ta phải có nghĩa vụ đạo đức để bảo vệ nó"*. Động cơ đạo đức luôn mạnh mẽ hơn động cơ tuân thủ.
 
 ---
 ## Trích dẫn hay từ tác giả

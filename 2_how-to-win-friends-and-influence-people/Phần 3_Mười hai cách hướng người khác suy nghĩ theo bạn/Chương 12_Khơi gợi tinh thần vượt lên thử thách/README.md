@@ -37,9 +37,12 @@ Khi nhân viên chán nản hay con cái lười biếng:
 3. **Công khai thành tích:** Có bảng điểm, bảng vinh danh để mọi người nhìn thấy và phấn đấu.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Thách thức về Performance:** *"Team bên kia xử lý request này mất 200ms. Liệu team mình có thể tối ưu xuống dưới 100ms không? Tôi cá là chúng ta có thể làm được vì team mình nắm rất chắc về Caching"*.
-- **Xử lý Bug khó:** *"Cái bug memory leak này tồn tại 2 năm rồi, bao nhiêu cao thủ bó tay. Ai mà fix được nó xứng đáng được vinh danh là Hero của team năm nay. Có ai dám nhận thử thách này không?"*.
-- **Deadline bất khả thi:** *"Dự án này cực khó, thời gian lại gấp, nhiều người bảo là không thể làm kịp. Nhưng tôi tin với trình độ của team mình, chúng ta sẽ chứng minh cho họ thấy là họ đã sai. Đây là cơ hội để chúng ta khẳng định năng lực với cả công ty"*.
+1. **Thách thức về Performance:** *"Team bên kia xử lý request này mất 200ms. Liệu team mình có thể tối ưu xuống dưới 100ms không? Tôi cá là chúng ta có thể làm được vì team mình nắm rất chắc về Caching"*.
+2. **Xử lý Bug khó:** *"Cái bug memory leak này tồn tại 2 năm rồi, bao nhiêu cao thủ bó tay. Ai mà fix được nó xứng đáng được vinh danh là Hero của team năm nay. Có ai dám nhận thử thách này không?"*.
+3. **Deadline bất khả thi:** *"Dự án này cực khó, thời gian lại gấp, nhiều người bảo là không thể làm kịp. Nhưng tôi tin với trình độ của team mình, chúng ta sẽ chứng minh cho họ thấy là họ đã sai. Đây là cơ hội để chúng ta khẳng định năng lực với cả công ty"*.
+4. **Gamification (Game hóa):** Đặt ra các mục tiêu vui vẻ: *"Tuần này ai giảm được bundle size nhiều nhất sẽ được mời cafe"*. *"Sprint này phấn đấu Zero Bug để được về sớm thứ 6"*. Biến công việc khô khan thành trò chơi có thưởng.
+5. **Tech Debt Challenge:** *"Chúng ta đang có 500 warnings từ linter. Tuần này phát động chiến dịch 'Clean The House', ai fix được nhiều warning nhất sẽ có quà"*.
+6. **Innovation/Hackathon:** *"Thứ 6 này chúng ta sẽ dành 1 ngày làm những gì mình thích nhưng chưa có thời gian làm. Hãy làm ra cái gì đó wow nhất có thể (internal tool, library, optimize...). Team nào có demo hay nhất sẽ được cả team kia khao pizza"*. Đây là cách dùng sự thử thách để kích thích sáng tạo.
 
 ---
 ## Trích dẫn hay từ tác giả

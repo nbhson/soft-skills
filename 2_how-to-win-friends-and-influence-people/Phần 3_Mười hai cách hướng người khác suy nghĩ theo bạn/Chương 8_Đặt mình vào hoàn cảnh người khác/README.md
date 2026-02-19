@@ -38,9 +38,12 @@ Trước khi yêu cầu ai làm gì, hoặc khi ai đó làm bạn bực mình:
 3. **Tiếp cận:** Dựa trên câu trả lời đó để nói chuyện với họ.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Review Code xấu:** Đừng vội chửi: *"Code như đống rác"*. Hãy tự hỏi: *"Tại sao họ viết thế này? Có phải deadline dí quá không? Có phải specs (tài liệu) đoạn này mơ hồ không? Hay họ chưa được training kỹ?"*. Khi hiểu lý do, bạn sẽ có cách góp ý xây dựng hơn là chỉ trích.
-- **Làm việc với Tester:** Tester report bug lúc 5h chiều thứ 6 không phải để troll bạn. Họ cũng muốn xong việc để về nghỉ cuối tuần. Họ cũng chịu áp lực từ PM phải tìm ra hết bug. Hãy hiểu áp lực của họ và cùng nhau hợp tác thay vì coi nhau là kẻ thù.
-- **Khách hàng đổi requirement liên tục:** Đừng chửi khách hàng "ngu ngốc, đổi ý như chong chóng". Hãy hiểu họ đang chịu áp lực từ thị trường, từ đối thủ cạnh tranh, từ nhà đầu tư. Họ đổi vì họ muốn sản phẩm sống sót và thành công (và để trả tiền cho bạn). Hãy đặt mình vào vị trí của họ để thông cảm và tìm giải pháp tốt nhất.
+1. **Review Code xấu:** Đừng vội chửi: *"Code như đống rác"*. Hãy tự hỏi: *"Tại sao họ viết thế này? Có phải deadline dí quá không? Có phải specs (tài liệu) đoạn này mơ hồ không? Hay họ chưa được training kỹ?"*. Khi hiểu lý do, bạn sẽ có cách góp ý xây dựng hơn là chỉ trích.
+2. **Làm việc với Tester:** Tester report bug lúc 5h chiều thứ 6 không phải để troll bạn. Họ cũng muốn xong việc để về nghỉ cuối tuần. Họ cũng chịu áp lực từ PM phải tìm ra hết bug. Hãy hiểu áp lực của họ và cùng nhau hợp tác thay vì coi nhau là kẻ thù.
+3. **Khách hàng đổi requirement liên tục:** Đừng chửi khách hàng "ngu ngốc, đổi ý như chong chóng". Hãy hiểu họ đang chịu áp lực từ thị trường, từ đối thủ cạnh tranh, từ nhà đầu tư. Họ đổi vì họ muốn sản phẩm sống sót và thành công (và để trả tiền cho bạn). Hãy đặt mình vào vị trí của họ để thông cảm và tìm giải pháp tốt nhất.
+4. **Negotiation (Đàm phán lương/Thăng chức):** Trước khi vào phòng sếp đòi tăng lương, hãy đặt mình vào vị trí của sếp. Sếp cần gì để thuyết phục cấp trên của sếp (Giám đốc/CEO) duyệt ngân sách này? Sếp cần bằng chứng về năng lực, về sự cống hiến. Hãy chuẩn bị những thứ đó giúp sếp. *"Em đã tổng hợp các thành tích của em, để sếp dễ nói chuyện với Ban giám đốc"*.
+5. **Cross-team Empathy:** Tại sao team Sales lại bán những tính năng chưa có? Vì hoa hồng (commission) của họ phụ thuộc vào đó. Tại sao team Security lại khắt khe chặn hết port? Vì nếu bị hack, họ là người chịu trách nhiệm đầu tiên. Hiểu động cơ của các bên giúp bạn bớt ức chế và tìm được tiếng nói chung (Trade-off).
+6. **User Experience (UX):** Khi user kêu ca UI "khó dùng". Đừng bảo họ "dốt công nghệ". Hãy thử dùng app của bạn với mental model của một bà nội trợ bận rộn vừa bế con vừa bấm điện thoại. Bạn sẽ thấy cái nút bấm bé tí kia thật sự là một cực hình. Sự thấu cảm này là nguồn gốc của những sản phẩm vĩ đại.
 
 ---
 ## Trích dẫn hay từ tác giả

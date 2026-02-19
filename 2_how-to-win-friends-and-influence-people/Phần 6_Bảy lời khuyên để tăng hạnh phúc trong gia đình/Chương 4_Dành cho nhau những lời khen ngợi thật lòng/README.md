@@ -32,9 +32,12 @@ Phụ nữ cũng vậy, hãy khen chồng mình khi anh ấy sửa giúp cái b�
    - "Cảm ơn anh đã vất vả vì gia đình."
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Kudos Culture (Văn hóa ghi nhận):** Hãy là người khởi xướng văn hóa **Kudos** trong team. Cuối mỗi ngày hoặc cuối Sprint (trong buổi Retro), hãy dành 5 phút để cảm ơn công khai những người đã giúp đỡ mình hoặc làm tốt việc của họ.
-- **Đừng coi là hiển nhiên:** Đừng nghĩ rằng "Nó được trả lương để code thì code xong là đương nhiên". Hãy nói: *"Cảm ơn em đã fix bug này nhanh chóng nhé, khách hàng rất hài lòng"*, *"Cảm ơn bạn QA đã bắt được lỗi này trước khi release, hú hồn"*.
-- **Code Review:** Khi thấy code đẹp, logic hay, hãy comment ngay 1 câu: *"Nice logic! 👍"*, *"Smart move!"*. Những lời khen nhỏ bé này là "nhiên liệu" để team của bạn code hăng say hơn mỗi ngày.
+1. **Kudos Culture (Văn hóa ghi nhận):** Hãy là người khởi xướng văn hóa **Kudos** trong team. Cuối mỗi ngày hoặc cuối Sprint (trong buổi Retro), hãy dành 5 phút để cảm ơn công khai những người đã giúp đỡ mình hoặc làm tốt việc của họ.
+2. **Đừng coi là hiển nhiên:** Đừng nghĩ rằng "Nó được trả lương để code thì code xong là đương nhiên". Hãy nói: *"Cảm ơn em đã fix bug này nhanh chóng nhé, khách hàng rất hài lòng"*, *"Cảm ơn bạn QA đã bắt được lỗi này trước khi release, hú hồn"*.
+3. **Code Review:** Khi thấy code đẹp, logic hay, hãy comment ngay 1 câu: *"Nice logic! 👍"*, *"Smart move!"*. Những lời khen nhỏ bé này là "nhiên liệu" để team của bạn code hăng say hơn mỗi ngày.
+4. **Glue Work (Công việc không tên):** Có những người âm thầm làm "việc nhà" cho team: update wiki, dọn dẹp Jira ticket, đặt đồ ăn trưa, fix CI/CD pipeline. Hãy vinh danh họ: *"Cảm ơn X đã luôn giữ cho document của team update. Nhờ vậy mà người mới vào đọc dễ hiểu hẳn"*. Nếu không có sự ghi nhận, họ sẽ ngừng làm, và team sẽ rối tung lên.
+5. **Support Roles:** Đừng quên cảm ơn IT Helpdest, HR, Office Manager. *"Cảm ơn bạn IT đã cài giúp mình cái máy in nhé"*. Họ thường ít được dev quan tâm, nên một lời cảm ơn chân thành sẽ khiến họ quý mến bạn và support bạn hết mình lần sau.
+6. **Farewell (Chia tay):** Khi một thành viên rời team, hãy tổ chức chia tay và nói những lời cảm ơn thật lòng về những đóng góp của họ (chứ không phải những lời sáo rỗng). *"Cảm ơn bạn đã luôn là người vui tính nhất team, giúp anh em xả stress những lúc deadline căng thẳng"*.
 
 ---
 ## Trích dẫn hay từ tác giả

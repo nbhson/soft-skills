@@ -36,8 +36,12 @@ Khi bạn bắt đầu bằng lời khen, bạn mở lòng họ ra, và những 
    - Lớp bánh mì dưới: Lời khích lệ và tin tưởng.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Code Review:** Đừng nhảy vào comment ngay: *"Function này quá dài, tách ra đi"*. Hãy nói: *"Logic xử lý đoạn này rất chặt chẽ, mình thích cách cậu handle các edge cases (khen). Tuy nhiên, function này hơi dài, nếu tách nhỏ ra nữa thì code sẽ clean và dễ test hơn nhiều (góp ý). Cậu thấy sao? (tôn trọng)"*.
-- **Performance Review:** *"Kỳ này anh thấy em hoàn thành task rất tốt, đặc biệt là tính năng X khách hàng rất khen (khen). Để tiến xa hơn lên vị trí Senior, anh nghĩ em cần cải thiện thêm kỹ năng viết document (góp ý). Anh tin là với tư duy mạch lạc của em thì việc này không khó đâu (khích lệ)"*.
+1. **Code Review:** Đừng nhảy vào comment ngay: *"Function này quá dài, tách ra đi"*. Hãy nói: *"Logic xử lý đoạn này rất chặt chẽ, mình thích cách cậu handle các edge cases (khen). Tuy nhiên, function này hơi dài, nếu tách nhỏ ra nữa thì code sẽ clean và dễ test hơn nhiều (góp ý). Cậu thấy sao? (tôn trọng)"*.
+2. **Performance Review:** *"Kỳ này anh thấy em hoàn thành task rất tốt, đặc biệt là tính năng X khách hàng rất khen (khen). Để tiến xa hơn lên vị trí Senior, anh nghĩ em cần cải thiện thêm kỹ năng viết document (góp ý). Anh tin là với tư duy mạch lạc của em thì việc này không khó đâu (khích lệ)"*.
+3. **Reporting Bugs to Other Teams:** Khi phải báo bug cho team Platform/API. *"Chào team, bên mình rất thích API mới này, response time rất nhanh và doc dễ đọc (khen). Tuy nhiên bọn mình đang gặp một ca là khi truyền param X vào thì bị 500 (bug). Nhờ team check giúp nhé"*. Họ sẽ fix nhanh hơn vì được khen.
+4. **Client Demo (Reject Feature):** Khi khách hàng muốn thêm tính năng vô lý. *"Ý tưởng này rất sáng tạo và vision của anh rất lớn (khen). Tuy nhiên, về mặt kỹ thuật hiện tại, việc implement nó sẽ ảnh hưởng đến performance của toàn bộ hệ thống (từ chối khéo). Hay mình thử cách B nhẹ nhàng hơn nhé?"*.
+5. **Resignation (Nghỉ việc):** Khi bạn muốn nghỉ việc. Hãy bắt đầu lá thư bằng những điều tuyệt vời bạn đã học được ở công ty, cảm ơn sếp và đồng nghiệp. Sau đó mới nói lý do rời đi. Điều này giữ lại mối quan hệ tốt đẹp (Network) sau này.
+6. **Giving Feedback to "Brilliant Jerks":** Với những dev giỏi nhưng thái độ lồi lõm. *"Anh rất nể trình độ technical của chú, mấy ca khó chú xử lý cái một (khen). Nhưng anh nghĩ nếu chú mềm mỏng hơn khi giao tiếp với Tester thì chú sẽ là một leader hoàn hảo (góp ý). Anh kỳ vọng nhiều ở chú"*.
 
 ---
 ## Trích dẫn hay từ tác giả

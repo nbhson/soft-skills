@@ -39,9 +39,12 @@ Lần tới khi muốn ai đó làm gì:
 2. **Hỏi ý kiến:** *"Anh thấy việc này thế nào?", "Theo em thì chúng ta nên làm gì?"*.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Giao Task (Assign Task):** Thay vì nói *"Tuần này em phải làm xong tính năng Login nhé"*. Hãy hỏi: *"Theo em thì tính năng Login này mất bao lâu để code và test? Em có nghĩ là kịp release vào thứ 6 tuần này không hay cần thêm thời gian?"*. Khi họ tự nói ra deadline (cam kết), họ sẽ có trách nhiệm sống chết để đạt được nó hơn là deadline do bạn áp xuống.
-- **Fix Bug:** *"Cái bug này nghiêm trọng đấy. Em xem thử nguyên nhân gốc rễ (root cause) là gì? Có giải pháp nào fix triệt để hay chỉ workaround tạm thời không?"* (Thay vì: *"Sửa cái này đi!"*).
-- **Họp Daily Standup:** *"Hôm nay team mình có blocker gì cần anh hỗ trợ không?"* (Thay vì: *"Báo cáo đi!"*).
+1. **Giao Task (Assign Task):** Thay vì nói *"Tuần này em phải làm xong tính năng Login nhé"*. Hãy hỏi: *"Theo em thì tính năng Login này mất bao lâu để code và test? Em có nghĩ là kịp release vào thứ 6 tuần này không hay cần thêm thời gian?"*. Khi họ tự nói ra deadline (cam kết), họ sẽ có trách nhiệm sống chết để đạt được nó hơn là deadline do bạn áp xuống.
+2. **Fix Bug:** *"Cái bug này nghiêm trọng đấy. Em xem thử nguyên nhân gốc rễ (root cause) là gì? Có giải pháp nào fix triệt để hay chỉ workaround tạm thời không?"* (Thay vì: *"Sửa cái này đi!"*).
+3. **Họp Daily Standup:** *"Hôm nay team mình có blocker gì cần anh hỗ trợ không?"* (Thay vì: *"Báo cáo đi!"*).
+4. **Architecture Decision:** *"Nếu chúng ta dùng MongoDB ở đây thì ưu điểm là schema linh hoạt, nhưng nhược điểm là gì nhỉ? Em có lo ngại về tính toàn vẹn dữ liệu (transaction) không?"* (Thay vì: *"Dùng PostgreSQL đi, đừng dùng MongoDB"*). Cách hỏi này kích thích tư duy phản biện của Junior.
+5. **Review Code:** *"Chỗ này mình thấy hơi khó đọc một chút. Bạn nghĩ có cách nào viết lại gọn hơn không? Hay là thử tách hàm xem sao?"* (Thay vì: *"Refactor chỗ này đi"*).
+6. **Process Improvement:** *"Dạo này build time hơi lâu nhỉ, anh em có cao kiến gì để cải thiện không?"*. Câu hỏi này mời gọi sự sáng tạo của cả team, thay vì bạn phải tự mình đi optimize mọi thứ.
 
 ---
 ## Trích dẫn hay từ tác giả

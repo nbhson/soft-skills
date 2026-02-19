@@ -41,9 +41,12 @@ Cách ông làm:
 3. **Ghi chú:** Sau khi gặp ai đó quan trọng, hãy ghi lại tên họ vào điện thoại ngay lập tức, kèm theo vài đặc điểm nhận dạng.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Nhớ tên mọi người:** Đừng chỉ nhớ tên Dev. Hãy nhớ tên Tester, BA, PM, anh DevOps, chú bảo vệ, cô tạp vụ. Khi bạn chào *"Chào chú Bảy"*, bạn tạo ra một sự kết nối và tôn trọng to lớn.
-- **Code cũng cần có tên:** Đặt tên biến, hàm, class cho đàng hoàng, có nghĩa. Đó là cách bạn tôn trọng người đọc code (đồng nghiệp và chính bạn trong tương lai). Đừng đặt `a`, `b`, `tmp`. Hãy đặt `userBalance`, `calculateTax()`.
-- **Giao tiếp online:** Trong chat group (Slack/Discord), hãy tag tên hoặc gọi tên cụ thể thay vì nói trổng *"Ai review giúp PR này với"*. Hãy nói: *"@Tuan, em rảnh không review giúp anh PR này nhé"*. Hiệu quả sẽ cao hơn hẳn.
+1. **Nhớ tên mọi người:** Đừng chỉ nhớ tên Dev. Hãy nhớ tên Tester, BA, PM, anh DevOps, chú bảo vệ, cô tạp vụ. Khi bạn chào *"Chào chú Bảy"*, bạn tạo ra một sự kết nối và tôn trọng to lớn.
+2. **Code cũng cần có tên (Naming):** Đặt tên biến, hàm, class là một trong những việc khó nhất trong CS. Hãy đặt tên cho đàng hoàng, có nghĩa. Một cái tên biến rõ nghĩa (`isAuthenticated` thay vì `flag`) là sự tôn trọng bạn dành cho đồng nghiệp và chính bạn trong tương lai. Naming is communication.
+3. **Giao tiếp online:** Trong chat group (Slack/Discord), hãy tag tên hoặc gọi tên cụ thể thay vì nói trổng *"Ai review giúp PR này với"*. Hãy nói: *"@Tuan, em rảnh không review giúp anh PR này nhé"*. Hiệu quả sẽ cao hơn hẳn.
+4. **Domain Terminology (Ubiquitous Language):** Hãy tôn trọng "tên gọi" của các khái niệm nghiệp vụ. Nếu Business gọi nó là "Order", đừng gọi nó là "Cart" trong code. Việc dùng sai từ vựng (Language) gây ra sự hiểu lầm (Cognitive Dissonance) rất lớn. Hãy thống nhất ngôn ngữ giữa Code và Business.
+5. **Pronunciation:** Với các team Global, việc phát âm đúng tên của đồng nghiệp nước ngoài (Ấn Độ, Ba Lan, Việt Nam...) là sự tôn trọng cực lớn. Đừng ngại hỏi: *"Did I pronounce your name correctly?"*. Đừng tự ý gán "nickname" cho họ chỉ vì bạn lười học cách phát âm tên thật của họ (trừ khi họ đề nghị).
+6. **Giving Credit (Gọi tên người có công):** Trong các buổi họp, hãy "Name-drop" (nhắc tên) người có ý tưởng. *"Như bạn @Huy đã đề xuất hôm qua..."*, *"Idea này là của @Trang, rất thông minh..."*. Đừng vơ công trạng vào mình (thậm chí là vô tình). Nhắc tên họ gắn liền với thành công là món quà lớn nhất bạn tặng cho họ.
 
 ---
 ## Trích dẫn hay từ tác giả

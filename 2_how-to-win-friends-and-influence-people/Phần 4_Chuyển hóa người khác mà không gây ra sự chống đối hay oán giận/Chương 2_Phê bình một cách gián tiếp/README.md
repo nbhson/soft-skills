@@ -36,8 +36,12 @@ Chỉ thay một từ, ý nghĩa thay đổi hoàn toàn. Lời khen được gi
 3. **Kiểm soát từ ngữ:** Tập thói quen thay "Nhưng" bằng "Và" hoặc ngắt câu và bắt đầu ý mới.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Code Convention:** Thay vì đi soi mói từng dòng code của Junior và comment: *"Sai thụt đầu dòng rồi"*, *"Thiếu dấu trấm phẩy"*, *"Tên biến sai quy tắc"*. Hãy im lặng setup **Linter/Formatter** (ESLint, Prettier) vào CI/CD pipeline. Khi họ push code lên, hệ thống sẽ tự động báo lỗi hoặc tự động sửa. Họ sẽ tự hiểu và tuân thủ mà không cảm thấy bị soi mói. Bạn phê bình họ gián tiếp qua công cụ.
-- **Thói quen đi làm:** Nhân viên hay đi trễ. Thay vì họp và mắng *"Tại sao mọi người hay đi trễ thể?"*. Sếp hãy đi sớm mỗi ngày và đứng lên chào to vui vẻ *"Chào buổi sáng cả team! Hôm nay trời đẹp nhỉ!"* lúc 8:30 sáng. Ai đi trễ bước vào sau sẽ tự cảm thấy ngại và điều chỉnh hành vi. 
+1. **Automated Linter/Formatter:** Thay vì đi soi mói từng dòng code của Junior và comment: *"Sai thụt đầu dòng rồi"*, *"Thiếu dấu trấm phẩy"*, *"Tên biến sai quy tắc"*. Hãy im lặng setup **Linter/Formatter** (ESLint, Prettier) vào CI/CD pipeline. Khi họ push code lên, hệ thống sẽ tự động báo lỗi hoặc tự động sửa. Họ sẽ tự hiểu và tuân thủ mà không cảm thấy bị soi mói. Bạn phê bình họ gián tiếp qua công cụ.
+2. **Thói quen đi làm (Leading by Example):** Nhân viên hay đi trễ. Thay vì họp và mắng *"Tại sao mọi người hay đi trễ thể?"*. Sếp hãy đi sớm mỗi ngày và đứng lên chào to vui vẻ *"Chào buổi sáng cả team! Hôm nay trời đẹp nhỉ!"* lúc 8:30 sáng. Ai đi trễ bước vào sau sẽ tự cảm thấy ngại và điều chỉnh hành vi.
+3. **"We" instead of "You" (Dùng "Chúng ta"):** Khi tìm thấy bug, đừng nói: *"Ê, **em** vừa tạo ra bug này"*. Hãy nói: *"Có vẻ **chúng ta** đang gặp một vấn đề nhỏ ở module này. **Chúng ta** cùng xem log nhé"*. Chuyển từ "You" (Đối đầu) sang "We" (Đồng hành) giúp giảm sự đổ lỗi.
+4. **Automated Tests:** Tương tự Linter, hãy viết Unit Test để bắt lỗi logic. Khi test đỏ, máy tính là kẻ báo tin xấu, không phải bạn. Dev dễ dàng chấp nhận việc máy tính báo sai hơn là đồng nghiệp chê bai.
+5. **Questioning Approach (Hỏi để họ tự nhận ra):** *"Đoạn code này liệu có handle được 1 triệu request cùng lúc không nhỉ?"* (Gián tiếp nói: Code này chậm lắm, sửa đi). Câu hỏi này nhẹ nhàng hơn câu khẳng định *"Code này sẽ sập khi high load"*.
+6. **User Stories as Critique:** Đừng chê UI xấu. Hãy nói: *"User mới vào app có thể sẽ hơi khó tìm nút này vì màu nó hơi chìm"*. Criticism được bọc dưới dạng quan tâm đến User, không phải tấn công Designer/Frontend Dev.
 
 ---
 ## Trích dẫn hay từ tác giả

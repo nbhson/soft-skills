@@ -34,8 +34,12 @@ Việc thừa nhận mình không hoàn hảo sẽ giúp hạ cái tôi của ng
 3. **Chia sẻ thất bại:** Đừng ngại kể về thất bại của mình để người khác thấy bạn gần gũi và chân thành.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Mentoring Junior:** Khi Junior làm sập Production vì quên check null. Đừng mắng. Hãy nói: *"Bình tĩnh em. Hồi mới ra trường anh cũng từng làm sập database vì một câu query thiếu `WHERE`. Cảm giác lúc đó kinh khủng lắm, nên anh hiểu em đang hoảng thế nào. Giờ mình cùng rollback và fix nhé. Sau vụ này em sẽ nhớ đời và cẩn thận hơn, giống anh thôi."*. Nghe vậy Junior sẽ cảm kích vô cùng và học hỏi nhanh hơn.
-- **Review Design:** *"Cái database schema này em đang design thiếu phần index. Hồi xưa anh cũng hay quên cái này lắm, làm lúc data lớn query nó chậm rì. Giờ mình thêm index vào luôn nhé để sau này đỡ khổ."*.
+1. **Mentoring Junior:** Khi Junior làm sập Production vì quên check null. Đừng mắng. Hãy nói: *"Bình tĩnh em. Hồi mới ra trường anh cũng từng làm sập database vì một câu query thiếu `WHERE`. Cảm giác lúc đó kinh khủng lắm, nên anh hiểu em đang hoảng thế nào. Giờ mình cùng rollback và fix nhé. Sau vụ này em sẽ nhớ đời và cẩn thận hơn, giống anh thôi."*. Nghe vậy Junior sẽ cảm kích vô cùng và học hỏi nhanh hơn.
+2. **Review Design:** *"Cái database schema này em đang design thiếu phần index. Hồi xưa anh cũng hay quên cái này lắm, làm lúc data lớn query nó chậm rì. Giờ mình thêm index vào luôn nhé để sau này đỡ khổ."*.
+3. **Post-Mortem Integrity:** Trong buổi họp rút kinh nghiệm sự cố. Tech Lead nên là người đầu tiên nhận lỗi. *"Vụ này một phần do tôi review chưa kỹ, bỏ sót edge case này."*. Khi lãnh đạo dám nhận sai, nhân viên sẽ không còn sợ hãi việc nhận lỗi nữa (Psychological Safety).
+4. **Pair Programming:** Khi đang pair với Junior, nếu bạn gõ sai hoặc quên syntax, hãy cười và nói: *"Ái chà, anh quên mất chỗ này, để anh tra Google đã"*. Điều này bình thường hóa việc "không biết" và "mắc lỗi", giúp Junior tự tin hơn khi họ cũng không biết gì đó.
+5. **Code Ownership:** Khi review code trỏ vào module cũ nát. *"Module này anh viết 2 năm trước lúc đang gấp, giờ nhìn lại thấy tởm thật (tự chê mình). Em refactor lại giúp anh nhé, chứ để thế này khó bảo trì quá"*. Junior sẽ cảm thấy thoải mái refactor mà không sợ đụng chạm tự ái của Senior.
+6. **Onboarding:** Kể chuyện ngày đầu: *"Ngày đầu tiên anh vào công ty, anh còn không biết cách bật máy pha cà phê, còn push code nhầm nhánh develop nữa cơ. Nên em có gì chưa rõ cứ hỏi thoải mái nhé, đừng ngại"*.
 
 ---
 ## Trích dẫn hay từ tác giả

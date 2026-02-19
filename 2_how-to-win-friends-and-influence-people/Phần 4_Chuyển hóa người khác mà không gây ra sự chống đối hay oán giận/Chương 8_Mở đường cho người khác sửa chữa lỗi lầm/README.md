@@ -32,8 +32,12 @@ Ngược lại, nếu bạn nói: *"Việc này không khó đâu, con chỉ c�
 3. **Chia nhỏ thử thách:** Đừng giao việc quá khó. Hãy giao những việc nhỏ, dễ thành công để giúp họ xây dựng sự tự tin.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Refactor Code:** Đừng nói: *"Code này nát quá, smell quá, đập đi xây lại hết đi"*. Câu này làm Junior nản lòng ngay. Hãy nói: *"Logic core của em ổn rồi. Giờ chỉ cần tách cái hàm to này làm 3 hàm nhỏ, rồi đổi tên biến này cho dễ hiểu hơn là code đẹp như tranh vẽ ngay. Chắc mất tầm 30p refactor thôi nhỉ, nhanh mà."*.
-- **Học công nghệ mới:** Khi team phải chuyển sang công nghệ mới (ví dụ từ React sang Next.js hay học Docker). Đừng dọa: *"Cái này khó lắm nhé"*. Hãy nói: *"Docker không khó đâu. Nó giống như máy ảo thôi mà nhẹ hơn. Anh chỉ em 15 phút là em nắm được nguyen lý ngay. Em có nền tảng Linux rồi thì học cái này phút mốt."*.
+1. **Refactor Code:** Đừng nói: *"Code này nát quá, smell quá, đập đi xây lại hết đi"*. Câu này làm Junior nản lòng ngay. Hãy nói: *"Logic core của em ổn rồi. Giờ chỉ cần tách cái hàm to này làm 3 hàm nhỏ, rồi đổi tên biến này cho dễ hiểu hơn là code đẹp như tranh vẽ ngay. Chắc mất tầm 30p refactor thôi nhỉ, nhanh mà."*.
+2. **Học công nghệ mới:** Khi team phải chuyển sang công nghệ mới (ví dụ từ React sang Next.js hay học Docker). Đừng dọa: *"Cái này khó lắm nhé"*. Hãy nói: *"Docker không khó đâu. Nó giống như máy ảo thôi mà nhẹ hơn. Anh chỉ em 15 phút là em nắm được nguyên lý ngay. Em có nền tảng Linux rồi thì học cái này phút mốt."*.
+3. **Fixing a Scary Bug:** Junior toát mồ hôi vì bug khó. *"Bug này nhìn log đỏ lòm ghê thật, nhưng anh nghĩ nó chỉ là lỗi off-by-one (sai số 1 đơn vị) đâu đó trong vòng for thôi. Em thử đặt log ngay chỗ này xem. Anh tin là em tìm ra ngay ấy mà"*. Biến con quái vật thành con kiến để Junior dẫm bẹp nó.
+4. **Public Speaking (Demo):** *"Em sợ demo trước khách hàng hả? Đừng lo, cứ coi như em đang demo cho anh xem thôi. Tính năng này em làm em hiểu nhất, khách hàng họ mù tịt à, em nói gì họ tin nấy. Cứ thoải mái chém gió"*. Giảm bớt áp lực tâm lý cho người trình bày.
+5. **Writing Tests:** Nhiều dev sợ viết test vì nghĩ nó phức tạp. *"Viết test dễ ợt à. Nó y hệt như em code bình thường thôi, chỉ khác là em gọi hàm rồi so sánh kết quả. Em xem cái file mẫu này nè, copy paste sang sửa lại chút là chạy ngon lành"*.
+6. **Git Conflict:** *"Conflict nhìn thì ghê chứ thực ra dễ xử lý lắm. Em cứ tìm mấy cái dấu `<<<`. Nó chỉ là 2 người cùng sửa 1 dòng thôi. Em chọn cái nào đúng giữ lại là xong. Làm thử 1 lần là quen tay ngay"*.
 
 ---
 ## Trích dẫn hay từ tác giả

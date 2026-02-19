@@ -42,9 +42,12 @@ Hãy sử dụng thường xuyên những cụm từ lịch sự nhỏ bé này,
 3. **Tìm điểm độc đáo:** Mỗi người đều có một điểm gì đó hơn bạn (kiến thức, kỹ năng, trải nghiệm). Hãy tìm ra nó và thừa nhận nó một cách chân thành.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Hỏi ý kiến:** Luôn hỏi *"Cậu thấy kiến trúc này thế nào? Tôi rất coi trọng góc nhìn của cậu"* (ngay cả với Junior/Mid). Điều này khiến họ cảm thấy mình là một phần quan trọng của team, không phải chỉ là thợ code (coder).
-- **Trao quyền làm chủ (Ownership):** Hãy giao cho Junior chịu trách nhiệm hoàn toàn một module nhỏ và nói: *"Module này rất quan trọng với dự án, và anh tin em có đủ khả năng để làm tốt nó"*. Họ sẽ làm việc 200% sức lực để xứng đáng với niềm tin đó.
-- **Biết ơn những "Người hùng thầm lặng":** Cảm ơn đội ngũ Ops đã trực đêm deploy, cảm ơn QA đã bắt những con bug khó chịu. Họ thường ít được nhắc đến khi thành công, hãy là người thay đổi điều đó.
+1. **Hỏi ý kiến:** Luôn hỏi *"Cậu thấy kiến trúc này thế nào? Tôi rất coi trọng góc nhìn của cậu"* (ngay cả với Junior/Mid). Điều này khiến họ cảm thấy mình là một phần quan trọng của team, không phải chỉ là thợ code (coder).
+2. **Trao quyền làm chủ (Ownership):** Hãy giao cho Junior chịu trách nhiệm hoàn toàn một module nhỏ và nói: *"Module này rất quan trọng với dự án, và anh tin em có đủ khả năng để làm tốt nó"*. Họ sẽ làm việc 200% sức lực để xứng đáng với niềm tin đó.
+3. **Biết ơn những "Người hùng thầm lặng":** Cảm ơn đội ngũ Ops đã trực đêm deploy, cảm ơn QA đã bắt những con bug khó chịu. Họ thường ít được nhắc đến khi thành công, hãy là người thay đổi điều đó.
+4. **Delegation with Trust:** Khi giao việc, đừng micromanage. Hãy nói: *"Anh tin tưởng vào cách giải quyết của em, cứ làm theo cách em thấy tốt nhất"*. Sự tin tưởng là liều thuốc tăng lực mạnh nhất cho lòng tự trọng.
+5. **Title Respect:** Đừng bao giờ khinh thường Tester, BA hay Support. Hãy coi họ là những chuyên gia (Experts) trong lĩnh vực của họ. *"Chị là chuyên gia về Business, chị thấy logic này có ổn không?"*. Bạn sẽ biến họ thành đồng minh thay vì kẻ vạch lá tìm sâu.
+6. **Be a Sponsor:** Trong các cuộc họp với cấp trên, hãy nói tốt cho nhân viên của mình. *"Feature này chạy mượt là nhờ công lớn của bạn Tùng đã tối ưu query đấy ạ"*. Nâng người khác lên, bạn sẽ được nâng lên cao hơn.
 
 ---
 ## Trích dẫn hay từ tác giả

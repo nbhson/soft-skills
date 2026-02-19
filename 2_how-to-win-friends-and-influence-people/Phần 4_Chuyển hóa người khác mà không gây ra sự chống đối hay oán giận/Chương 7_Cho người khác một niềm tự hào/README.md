@@ -33,9 +33,12 @@ Khi muốn ai đó thay đổi hành vi (ví dụ: con cái lôi thôi, nhân vi
 3. **Thể hiện niềm tin:** *"Con chắc chắn sẽ sắp xếp lại phòng mình sạch đẹp như đúng tính cách của con."*
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Giao trách nhiệm quan trọng:** *"Anh giao module Payment này cho em vì anh quan sát thấy em là người cẩn thận và tỉ mỉ nhất team. Đụng đến tiền nong thì anh chỉ tin tưởng em thôi."*. Nghe câu này xong, nhân viên đó sẽ soi code từng li từng tí, test từng case một để không phụ lòng tin đó.
-- **Về Security:** *"Cậu là chuyên gia bảo mật của team (dù họ chưa hẳn là chuyên gia). Cậu xem giúp tớ đoạn code này có lỗ hổng nào không nhé. Tớ tin vào mắt nhìn của cậu."*.
-- **Thúc đẩy tính chủ động:** *"Em là người có tư duy Product rất tốt, không chỉ là Coder. Em thử xem tính năng này làm thế nào để user trải nghiệm sướng nhất nhé."*.
+1. **Giao trách nhiệm quan trọng:** *"Anh giao module Payment này cho em vì anh quan sát thấy em là người cẩn thận và tỉ mỉ nhất team. Đụng đến tiền nong thì anh chỉ tin tưởng em thôi."*. Nghe câu này xong, nhân viên đó sẽ soi code từng li từng tí, test từng case một để không phụ lòng tin đó.
+2. **Về Security:** *"Cậu là chuyên gia bảo mật của team (dù họ chưa hẳn là chuyên gia). Cậu xem giúp tớ đoạn code này có lỗ hổng nào không nhé. Tớ tin vào mắt nhìn của cậu."*.
+3. **Thúc đẩy tính chủ động:** *"Em là người có tư duy Product rất tốt, không chỉ là Coder. Em thử xem tính năng này làm thế nào để user trải nghiệm sướng nhất nhé."*.
+4. **Forcing a Standard (Clean Code):** *"Anh biết chú là người rất kỹ tính trong việc clean code, nên anh mới nhờ chú review PR này. Chú xem xem có chỗ nào chưa chuẩn convention thì flag hết giúp anh"*. Mặc dù bình thường người đó có thể xuề xòa, nhưng khi được gán mác "kỹ tính", họ sẽ review cực kỳ nghiêm túc.
+5. **The Troubleshooter:** *"Mỗi khi server có vấn đề hóc búa anh đều nghĩ ngay đến em. Em có cái đầu lạnh và khả năng truy vết lỗi rất tốt. Em xem ca này giúp anh được không?"*.
+6. **The Mentor:** *"Anh thấy em rất kiên nhẫn và giải thích dễ hiểu. Em hướng dẫn bạn mới này giúp anh nhé. Anh tin là dưới sự dẫn dắt của em thì bạn ấy sẽ tiến bộ nhanh thôi"*.
 
 ---
 ## Trích dẫn hay từ tác giả

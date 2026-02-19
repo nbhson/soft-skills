@@ -34,9 +34,12 @@ Và quan trọng hơn, bạn làm phong phú thêm cuộc sống của người 
 2. **Quan sát:** Khi vào phòng làm việc hay nhà ai đó, hãy nhìn tranh ảnh, sách báo để đoán sở thích của họ và bắt đầu câu chuyện từ đó.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Nói chuyện với Non-Tech (Kinh doanh/Marketing):** Đừng thao thao bất tuyệt về Kubernetes, Microservices, hay sự ưu việt của Rust. Họ không hiểu và không quan tâm. Hãy nói ngôn ngữ của họ: *"Giải pháp này sẽ giúp chúng ta ra mắt tính năng nhanh hơn 2 tuần (Time to market)", "Cái này giúp tiết kiệm 30% chi phí server (Cost saving)", "Cái này giúp trải nghiệm người dùng mượt mà hơn (UX)"*.
-- **Documentation:** Viết tài liệu cho người đọc, không phải cho mình. Đừng chỉ mô tả "Hàm này làm gì". Hãy mô tả "Hàm này giúp bạn giải quyết vấn đề gì, trong trường hợp nào".
-- **Giao tiếp xã hội:** Nếu đồng nghiệp thích đá bóng, hãy dùng ví dụ bóng đá để giải thích một khái niệm kỹ thuật phức tạp (ví dụ: Load Balancer giống như một tiền vệ điều phối bóng). Họ sẽ hiểu ngay và ấn tượng với bạn.
+1. **Nói chuyện với Non-Tech (Kinh doanh/Marketing):** Đừng thao thao bất tuyệt về Kubernetes, Microservices, hay sự ưu việt của Rust. Họ không hiểu và không quan tâm. Hãy nói ngôn ngữ của họ: *"Giải pháp này sẽ giúp chúng ta ra mắt tính năng nhanh hơn 2 tuần (Time to market)", "Cái này giúp tiết kiệm 30% chi phí server (Cost saving)", "Cái này giúp trải nghiệm người dùng mượt mà hơn (UX)"*.
+2. **Documentation:** Viết tài liệu cho người đọc, không phải cho mình. Đừng chỉ mô tả "Hàm này làm gì". Hãy mô tả "Hàm này giúp bạn giải quyết vấn đề gì, trong trường hợp nào". Hãy nói về *Use Case*, *Pain Point* mà function này giải quyết.
+3. **Giao tiếp xã hội:** Nếu đồng nghiệp thích đá bóng, hãy dùng ví dụ bóng đá để giải thích một khái niệm kỹ thuật phức tạp (ví dụ: Load Balancer giống như một tiền vệ điều phối bóng). Họ sẽ hiểu ngay và ấn tượng với bạn.
+4. **Selling Refactoring/Tech Debt:** Khi bạn muốn refactor, đừng nói về "Code sạch". Hãy nói về **Risk** (Rủi ro) cho Business. *"Nếu không sửa chỗ này, đợt Sale sắp tới hệ thống có thể sập và mất doanh thu của 1 ngày. Sếp có muốn mạo hiểm không?"*. Đây là ngôn ngữ mà Founder/CEO quan tâm.
+5. **Career Conversations:** Khi quản lý nhân sự, đừng áp đặt KPI của công ty lên họ. Hãy hỏi: *"Mục tiêu nghề nghiệp 3 năm tới của em là gì? Em muốn đi sâu vào Technical hay muốn làm Quản lý?"*. Sau đó hãy gắn task của dự án vào mục tiêu đó của họ. *"Task này khó, nhưng nó giúp em luyện kỹ năng System Design mà em đang muốn học"*.
+6. **Commit Messages & PR Descriptions:** Hãy viết cho **Reviewer**. Họ quan tâm điều gì? Họ muốn biết: *"Tại sao change này lại cần thiết?", "Cách test change này thế nào?", "Có rủi ro gì không?"*. Đừng chỉ viết `Fix bug`. Hãy viết `Fix user login failure when network is slow`.
 
 ---
 ## Trích dẫn hay từ tác giả

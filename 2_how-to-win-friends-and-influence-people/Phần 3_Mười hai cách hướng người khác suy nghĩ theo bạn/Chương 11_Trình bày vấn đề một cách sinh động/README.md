@@ -32,9 +32,12 @@ Trong thời đại ngày nay, chỉ nói sự thật thôi là chưa đủ. S�
 3. **So sánh hình ảnh:** "Số tiền này đủ để xếp thành chồng cao bằng tòa nhà Landmark 81".
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Demo sản phẩm:** Đừng bao giờ chỉ show code hay JSON response trong buổi demo với khách hàng/Stakeholders. Hãy dựng UI thật, dùng dữ liệu có ý nghĩa (đừng dùng "test 1", "test 2"), tạo ra một kịch bản (scenario) như người dùng thật đang hạnh phúc sử dụng sản phẩm. Hãy làm cho người xem phải thốt lên *"Wow"*.
-- **Báo cáo lỗi Performance:** Đừng gửi email nói *"Server đang chậm lắm"*. Hãy chụp ảnh biểu đồ Latency đỏ lòm đang dựng đứng lên trời gửi vào group chat. Hoặc quay video cảnh app xoay vòng vòng 30 giây không load nổi. Hình ảnh gây ám ảnh thị giác sẽ thúc đẩy mọi người hành động ngay lập tức.
-- **Thuyết trình/Tech Talk:** Đừng dùng slide toàn chữ (Bullet points). Hãy dùng Diagram, biểu đồ, hình ảnh minh họa, Meme (nếu phù hợp văn hóa). Một sơ đồ kiến trúc đẹp mắt đáng giá hơn 1000 dòng mô tả. Hãy đảm bảo slide của bạn như một bộ phim ngắn, có mở đầu kịch tính và kết thúc ấn tượng.
+1. **Demo sản phẩm:** Đừng bao giờ chỉ show code hay JSON response trong buổi demo với khách hàng/Stakeholders. Hãy dựng UI thật, dùng dữ liệu có ý nghĩa (đừng dùng "test 1", "test 2"), tạo ra một kịch bản (scenario) như người dùng thật đang hạnh phúc sử dụng sản phẩm. Hãy làm cho người xem phải thốt lên *"Wow"*.
+2. **Báo cáo lỗi Performance:** Đừng gửi email nói *"Server đang chậm lắm"*. Hãy chụp ảnh biểu đồ Latency đỏ lòm đang dựng đứng lên trời gửi vào group chat. Hoặc quay video cảnh app xoay vòng vòng 30 giây không load nổi. Hình ảnh gây ám ảnh thị giác sẽ thúc đẩy mọi người hành động ngay lập tức.
+3. **Thuyết trình/Tech Talk:** Đừng dùng slide toàn chữ (Bullet points). Hãy dùng Diagram, biểu đồ, hình ảnh minh họa, Meme (nếu phù hợp văn hóa). Một sơ đồ kiến trúc đẹp mắt đáng giá hơn 1000 dòng mô tả. Hãy đảm bảo slide của bạn như một bộ phim ngắn, có mở đầu kịch tính và kết thúc ấn tượng.
+4. **Before/After Comparison:** Khi muốn thuyết phục team Refactor. Đừng chỉ nói miệng. Hãy chụp ảnh màn hình đoạn code "Spaghetti" rối rắm hiện tại, và đoạn code "Clean" sau khi refactor đặt cạnh nhau. Sự khác biệt thị giác (Complex vs Simple) sẽ tự nói lên tất cả mà không cần tranh cãi.
+5. **Metaphor (Phép ẩn dụ):** *"Hệ thống hiện tại giống như một ngôi nhà tranh vách đất. Chúng ta đang cố xây thêm tầng 10 lên trên nó. Nó sẽ sập bất cứ lúc nào (Technical Debt). Chúng ta cần đổ lại móng bê tông (Microservices/New & Robust Architecture)"*. Ẩn dụ giúp người Non-Tech hiểu được mức độ nghiêm trọng của vấn đề kỹ thuật.
+6. **Screen Recording/GIF:** Khi report bug hoặc hướng dẫn sử dụng. Đừng viết text dài dòng *"Bước 1: Bấm vào đây, Bước 2: Bấm vào kia"*. Hãy quay một cái GIF 5 giây. Một hình ảnh động nói lên nhiều điều hơn vạn dòng log.
 
 ---
 ## Trích dẫn hay từ tác giả

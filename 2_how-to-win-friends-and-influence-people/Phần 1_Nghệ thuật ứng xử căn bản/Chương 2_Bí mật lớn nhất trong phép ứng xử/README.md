@@ -49,9 +49,12 @@ Chúng ta thường không ngần ngại cung cấp thức ăn để nuôi dư�
 3. **Biết ơn những điều nhỏ nhặt:** Hãy nói "Cảm ơn" với người phục vụ bàn, người giữ xe, hay đồng nghiệp đã giúp đỡ bạn một việc nhỏ.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Khen ngợi Code:** Khi thấy đồng nghiệp viết một đoạn code sạch, logic hay, hãy comment ngay vào PR: *"Đoạn xử lý này rất thông minh, tôi học được nhiều từ nó"*.
-- **Ghi nhận đóng góp:** Trong các buổi retrospective, hãy công khai cảm ơn những người đã giúp đỡ mình, dù là việc nhỏ như fix một cái typo hay setup môi trường giúp.
-- **Động viên Junior:** Junior thường thiếu tự tin. Một câu nói *"Em làm tốt lắm, logic rất chắc chắn"* của Senior sẽ là nguồn động lực khổng lồ cho họ, hơn cả việc tăng lương.
+1. **Khen ngợi Code:** Khi thấy đồng nghiệp viết một đoạn code sạch, logic hay, hãy comment ngay vào PR: *"Đoạn xử lý này rất thông minh, tôi học được nhiều từ nó"*.
+2. **Ghi nhận đóng góp:** Trong các buổi retrospective, hãy công khai cảm ơn những người đã giúp đỡ mình, dù là việc nhỏ như fix một cái typo hay setup môi trường giúp.
+3. **Động viên Junior:** Junior thường thiếu tự tin. Một câu nói *"Em làm tốt lắm, logic rất chắc chắn"* của Senior sẽ là nguồn động lực khổng lồ cho họ, hơn cả việc tăng lương.
+4. **Cross-functional Appreciation:** Hãy biết ơn cả những người không code. Khi nhận được một bản Design chi tiết từng pixel, hãy nói với Designer: *"Cảm ơn bạn, design này clear quá, giúp mình code nhanh hơn hẳn"*. Khi nhận được bản spec rõ ràng từ BA/PO, hãy nói: *"Spec viết rất dễ hiểu, không có chỗ nào nhập nhằng cả, tuyệt vời"*.
+5. **Recognize "Glue Work":** Trong team luôn có những "người hùng thầm lặng" làm những việc không tên: dọn dẹp Tech Debt, update dependencies, trả lời câu hỏi của team khác, viết document. Senior Developer phải là người nhìn thấy và khen ngợi những việc đó. *"Cảm ơn em đã update thư viện X nhé, nhờ vậy mà build time giảm hẳn"*. Đừng để những việc này bị lãng quên.
+6. **Public vs Private:** Nguyên tắc vàng: *"Khen công khai, Chê kín đáo"*. Khi ai đó làm tốt, hãy khen trên kênh chat chung cho cả công ty thấy. Khi ai đó làm sai, hãy nhắn tin riêng hoặc book phòng họp 1-1. Sự công nhận công khai (Public Recognition) thỏa mãn khao khát được cảm thấy mình quan trọng của họ.
 
 ---
 ## Trích dẫn hay từ tác giả

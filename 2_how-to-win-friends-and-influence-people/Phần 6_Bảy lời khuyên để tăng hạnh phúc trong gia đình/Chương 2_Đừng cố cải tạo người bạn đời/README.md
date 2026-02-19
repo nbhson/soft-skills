@@ -33,8 +33,12 @@ Không ai hoàn hảo cả, kể cả bạn. Tại sao bạn lại đòi hỏi n
 3. **Bỏ qua tiểu tiết:** Nếu thói quen đó không gây hại đến sức khỏe hay đạo đức, hãy mỉm cười cho qua.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Team Diversity:** Trong một team, mỗi người có một phong cách code (Coding Style) và tư duy khác nhau. Có người thích OOP chặt chẽ, có người thích Functional Programming phóng khoáng. Đừng cố ép tất cả mọi người phải code y hệt bạn (trừ khi nó vi phạm convention chung của dự án). Hãy tôn trọng sự khác biệt. Đôi khi cách tư duy "khác người" của họ lại giải quyết được những vấn đề mà bạn đang bế tắc.
-- **Cross-functional Team:** Đừng bắt Designer phải hiểu kỹ thuật như Developer. Đừng bắt Tester phải biết code như Developer. Hãy chấp nhận rằng họ giỏi ở mảng của họ và yếu ở mảng của bạn. Sự bù trừ đó mới tạo nên một team hoàn hảo. Đừng cố biến họ thành bản sao của mình.
+1. **Team Diversity:** Trong một team, mỗi người có một phong cách code (Coding Style) và tư duy khác nhau. Có người thích OOP chặt chẽ, có người thích Functional Programming phóng khoáng. Đừng cố ép tất cả mọi người phải code y hệt bạn (trừ khi nó vi phạm convention chung của dự án). Hãy tôn trọng sự khác biệt. Đôi khi cách tư duy "khác người" của họ lại giải quyết được những vấn đề mà bạn đang bế tắc.
+2. **Cross-functional Team:** Đừng bắt Designer phải hiểu kỹ thuật như Developer. Đừng bắt Tester phải biết code như Developer. Hãy chấp nhận rằng họ giỏi ở mảng của họ và yếu ở mảng của bạn. Sự bù trừ đó mới tạo nên một team hoàn hảo. Đừng cố biến họ thành bản sao của mình.
+3. **Tool Wars (Cuộc chiến công cụ):** Bạn dùng Vim và thấy nó thượng đẳng? Tốt cho bạn. Nhưng đừng bắt đồng nghiệp dùng VS Code phải chuyển sang Vim giống bạn. Miễn là họ vẫn code hiệu quả và deliver đúng hạn, hãy để họ dùng công cụ họ thích. Tôn trọng "Weapon of Choice" của mỗi chiến binh.
+4. **Work Style:** Có người thích làm việc từ 8h sáng. Có người là cú đêm thích làm việc từ 2h chiều. Nếu công ty cho phép linh động (Remote/Async work), đừng ép người khác phải online cùng giờ với bạn. Hãy tìm cách phối hợp không đồng bộ (Async) thay vì bắt họ thay đổi nhịp sinh học.
+5. **Introvert vs Extrovert:** Đừng ép một đồng nghiệp hướng nội phải tham gia mọi cuộc "Happy Hour" hay Karaoke sau giờ làm. Đừng bắt họ phải nói nhiều trong cuộc họp nếu họ thấy không thoải mái. Hãy tạo điều kiện để họ đóng góp theo cách họ thấy tự tin nhất (ví dụ: viết document, chat).
+6. **Learning Path:** Có người thích học qua video (Visual learner), có người thích đọc sách (Text learner). Khi training nhân viên mới, đừng ép họ "Đọc hết 5 cuốn sách này đi". Hãy hỏi họ "Em thích học qua kênh nào?" và cung cấp tài liệu phù hợp.
 
 ---
 ## Trích dẫn hay từ tác giả

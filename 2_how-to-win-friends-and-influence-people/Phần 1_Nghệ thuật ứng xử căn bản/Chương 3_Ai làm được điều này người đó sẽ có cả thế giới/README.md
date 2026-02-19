@@ -48,9 +48,12 @@ Ví dụ:
 - Hãy nói: "Nếu con ăn rau, con sẽ cao lớn và khỏe mạnh như Siêu nhân để bảo vệ mẹ". (Tìm điều đứa trẻ muốn là trở thành Siêu nhân).
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Thuyết phục Sếp:** Đừng nói *"Tôi muốn refactor code vì nhìn nó ngứa mắt"*. Hãy nói: *"Nếu chúng ta dành 2 ngày refactor module này, tốc độ phát triển tính năng mới sẽ tăng 30% và giảm 50% bug tiềm ẩn. Sếp thấy sao?"* (Nói về lợi ích của Sếp).
-- **Thuyết phục Team:** Khi muốn đưa công nghệ mới vào, đừng nói *"Tao thích cái này"*. Hãy nói: *"Công nghệ này sẽ giúp anh em giảm bớt 50% thời gian viết boilerplate code, anh em sẽ có nhiều thời gian rảnh hơn để... uống cafe"*.
-- **Review lương:** Đừng nói *"Tôi muốn tăng lương vì vật giá leo thang"*. Hãy nói về những giá trị bạn đã mang lại cho công ty (tăng performance, giảm chi phí server) và hỏi *"Làm thế nào để mức lương của tôi phản ánh đúng những giá trị đó?"*.
+1. **Thuyết phục Sếp:** Đừng nói *"Tôi muốn refactor code vì nhìn nó ngứa mắt"*. Hãy nói: *"Nếu chúng ta dành 2 ngày refactor module này, tốc độ phát triển tính năng mới sẽ tăng 30% và giảm 50% bug tiềm ẩn. Sếp thấy sao?"* (Nói về lợi ích của Sếp).
+2. **Thuyết phục Team:** Khi muốn đưa công nghệ mới vào, đừng nói *"Tao thích cái này"*. Hãy nói: *"Công nghệ này sẽ giúp anh em giảm bớt 50% thời gian viết boilerplate code, anh em sẽ có nhiều thời gian rảnh hơn để... uống cafe"*.
+3. **Review lương:** Đừng nói *"Tôi muốn tăng lương vì vật giá leo thang"*. Hãy nói về những giá trị bạn đã mang lại cho công ty (tăng performance, giảm chi phí server) và hỏi *"Làm thế nào để mức lương của tôi phản ánh đúng những giá trị đó?"*.
+4. **Hiring/Recruiting (Tuyển dụng):** Khi phỏng vấn ứng viên, đừng chỉ thao thao bất tuyệt về yêu cầu của công ty. Hãy nói về những gì ứng viên muốn: *"Ở đây em sẽ được làm việc với hệ thống High Concurrency hàng triệu users, điều này sẽ làm CV của em cực kỳ sáng giá sau này"*. Bán cái họ cần (career growth), chứ không phải cái bạn cần (người làm việc).
+5. **User-Centric Development:** Khi Product Owner đưa xuống một tính năng vô lý. Đừng nói *"Tính năng này dở hơi, tôi không làm"*. Hãy nói *"User của mình chủ yếu là người già, nếu làm flow phức tạp thế này thì họ sẽ drop ngay bước đầu. Nếu mình đổi sang cách này thì UX sẽ mượt hơn, conversion rate sẽ cao hơn. PO thấy sao?"*. Bạn đang giúp PO đạt được KPI của họ.
+6. **Negotiating Deadlines:** Khi bị ép deadline. Đừng chỉ than *"Không kịp đâu"*. Hãy nói *"Muốn kịp deadline này thì phải cắt bớt tính năng A hoặc bỏ qua bước viết test. Nếu bỏ qua test thì sau này fix bug sẽ tốn gấp 3 thời gian develop, rủi ro sập production rất cao. Anh có chấp nhận rủi ro đó để kịp ngày release không?"*. Đặt sự lựa chọn (và rủi ro) vào tay họ, dựa trên cái họ quan tâm (sự ổn định/tốc độ lâu dài).
 
 ---
 ## Trích dẫn hay từ tác giả

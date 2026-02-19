@@ -45,12 +45,21 @@ Lần tới, trước khi muốn thuyết phục ai, đừng nói ngay ý kiến
 - Dẫn dắt họ bằng những cái gật đầu.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Thuyết phục Sếp/Khách hàng:** Đừng bắt đầu bằng những trở ngại (chi phí, thời gian). Hãy bắt đầu bằng những điều họ muốn:
+1. **Thuyết phục Sếp/Khách hàng:** Đừng bắt đầu bằng những trở ngại (chi phí, thời gian). Hãy bắt đầu bằng những điều họ muốn:
     - *"Anh muốn dự án này chạy ổn định và chịu tải cao chứ?"* -> **Có.**
     - *"Anh muốn sau này dễ dàng thêm tính năng mới mà không phải đập đi xây lại chứ?"* -> **Có.**
     - *"Để làm được 2 điều tuyệt vời đó, chúng ta cần dành thêm 1 tuần để thiết kế database chuẩn chỉnh. Anh đồng ý chứ?"* -> **Có.** (Đây gọi là nghệ thuật "lấy đà" cho sự đồng ý).
-- **Code Review:** *"Chúng ta đều đồng ý là code dễ đọc quan trọng hơn code ngắn gọn đúng không?"* -> **Có.** -> *"Vậy chỗ này mình tách hàm ra cho rõ nghĩa nhé?"*.
-- **Giải quyết mâu thuẫn:** *"Chúng ta đều muốn release bản này đúng hạn đúng không?"* -> **Có.** -> *"Vậy thay vì tranh cãi ai làm phần nào, chúng ta hãy chia việc theo cách ai rành cái nào làm cái đó nhé?"*.
+2. **Code Review:** *"Chúng ta đều đồng ý là code dễ đọc quan trọng hơn code ngắn gọn đúng không?"* -> **Có.** -> *"Vậy chỗ này mình tách hàm ra cho rõ nghĩa nhé?"*.
+3. **Giải quyết mâu thuẫn:** *"Chúng ta đều muốn release bản này đúng hạn đúng không?"* -> **Có.** -> *"Vậy thay vì tranh cãi ai làm phần nào, chúng ta hãy chia việc theo cách ai rành cái nào làm cái đó nhé?"*.
+4. **Socratic Debugging (Với Junior):** Thay vì chỉ ngay lỗi sai, hãy hỏi để họ tự gật đầu nhận ra. 
+    - *"Biến này có thể null không?"* -> *"Có ạ"*.
+    - *"Nếu nó null thì hàm này sẽ crash đúng không?"* -> *"Vâng ạ"*.
+    - *"Vậy ta nên check null ở đây chứ?"* -> *"Vâng, em sửa ngay"*.
+5. **Inception (Gieo mầm ý tưởng):** Khi bạn muốn team dùng công nghệ mới, đừng nói *"Dùng Redis đi"*. Hãy hỏi: *"Hệ thống mình đang chậm ở khâu đọc data đúng không?"* (Có). *"Nếu mình cache lại thì sẽ nhanh hơn nhỉ?"* (Có). *"Giải pháp cache nào ngon bổ rẻ hiện nay nhỉ?"* (Redis). Họ sẽ tự cảm thấy Redis là ý tưởng của họ.
+6. **Negotiating Requirements:** Khi PO đòi một feature vô lý. 
+    - *"Mình muốn user trải nghiệm mượt mà nhất đúng không?"* -> (Có). 
+    - *"Nếu user phải click 5 lần mới xong thì họ dễ bỏ cuộc đúng không?"* -> (Có). 
+    - *"Vậy mình gom 3 bước này thành 1 bước tự động nhé, dù code hơi khó hơn chút?"* -> (Có).
 
 ---
 ## Trích dẫn hay từ tác giả

@@ -42,18 +42,17 @@ Sau khi học cách kiềm chế và không tranh cãi, anh ta trở thành mộ
 3. **Thoát khỏi tình huống:** Nếu cuộc tranh luận leo thang, hãy xin phép đi vệ sinh hoặc đi lấy nước để làm nguội cái đầu nóng.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Technical Debates (Tranh luận kỹ thuật):** Những cuộc chiến "Thánh chiến" như *Tabs vs Spaces*, *Vim vs Emacs*, *React vs Angular* thường vô bổ và gây chia rẽ. Thay vì tranh cãi ai đúng ai sai, hãy tập trung vào mục tiêu chung: *"Dự án này cần tốc độ, React có cộng đồng lớn hơn nên sẽ dễ tuyển người hơn"*. Chấm hết. Đừng sa đà vào "React xịn hơn vì nó dùng Virtual DOM".
-- **Code Review:** Khi ai đó không đồng ý với comment của bạn, đừng cố "cãi thắng" để chứng tỏ mình giỏi. Hãy nói: *"Có thể mình sai hoặc mình chưa hiểu hết ý đồ của bạn. Bạn có thể giải thích thêm không?"*. Nếu vấn đề nhỏ, hãy nhượng bộ (Disagree and Commit) để team tiến lên.
-- **Điều phối cuộc họp:** Khi bạn thấy cuộc họp biến thành một cái chợ vỡ vì 2 dev đang cãi nhau về chi tiết kỹ thuật. Hãy là người đứng ra cắt ngang: *"Mục tiêu hôm nay là chốt flow, chi tiết kỹ thuật này hai bạn có thể thảo luận riêng sau nhé. Chúng ta quay lại vấn đề chính nào."*
+1. **Technical Debates (Tranh luận kỹ thuật):** Những cuộc chiến "Thánh chiến" như *Tabs vs Spaces*, *Vim vs Emacs*, *React vs Angular* thường vô bổ và gây chia rẽ. Thay vì tranh cãi ai đúng ai sai, hãy tập trung vào mục tiêu chung: *"Dự án này cần tốc độ, React có cộng đồng lớn hơn nên sẽ dễ tuyển người hơn"*. Chấm hết. Đừng sa đà vào "React xịn hơn vì nó dùng Virtual DOM".
+2. **Code Review:** Khi ai đó không đồng ý với comment của bạn, đừng cố "cãi thắng" để chứng tỏ mình giỏi. Hãy nói: *"Có thể mình sai hoặc mình chưa hiểu hết ý đồ của bạn. Bạn có thể giải thích thêm không?"*. Nếu vấn đề nhỏ, hãy nhượng bộ (Disagree and Commit) để team tiến lên.
+3. **Điều phối cuộc họp:** Khi bạn thấy cuộc họp biến thành một cái chợ vỡ vì 2 dev đang cãi nhau về chi tiết kỹ thuật. Hãy là người đứng ra cắt ngang: *"Mục tiêu hôm nay là chốt flow, chi tiết kỹ thuật này hai bạn có thể thảo luận riêng sau nhé. Chúng ta quay lại vấn đề chính nào."*
+4. **Choose your Battles (Chọn trận đánh):** Đừng tranh cãi về mọi thứ. Nếu vấn đề không ảnh hưởng nghiêm trọng đến Performance hay Security, hãy để người khác thắng. Giữ "vốn liếng chính trị" (political capital) của bạn cho những quyết định kiến trúc quan trọng thực sự.
+5. **Data over Opinion:** Đừng tranh cãi bằng cảm tính ("Tôi nghĩ...", "Tôi tin..."). Hãy tranh cãi bằng dữ liệu. *"Tôi nghĩ SQL nhanh hơn NoSQL"* là tranh cãi. *"Benchmark cho thấy với lượng data này, SQL query mất 10ms còn NoSQL mất 500ms"* là thực tế. Hãy để dữ liệu tự biện hộ, bạn không cần phải cãi.
+6. **Async Communication:** Khi cuộc tranh luận trở nên quá nóng trong phòng họp, hãy đề nghị: *"Vấn đề này phức tạp, mình đề nghị viết ra một bản RFC/Design Doc để phân tích kỹ hơn và mọi người comment vào đó nhé"*. Việc viết (Writing) buộc người ta phải suy nghĩ logic và làm nguội cái đầu nóng (Emotion).
 
 ---
 ## Trích dẫn hay từ tác giả
 > *"Cách duy nhất để đạt được điều tốt nhất từ một cuộc tranh cãi là tránh nó - tránh như tránh rắn độc hoặc động đất."*
-
 > *"Bạn không thể nào thắng được một cuộc tranh cãi. Không thể nào. Bởi vì nếu bạn thua, bạn thua; và nếu bạn thắng, bạn cũng thua."*
-
 > *"Một người bị thuyết phục trái với ý muốn của mình thì vẫn giữ nguyên ý kiến."* (A man convinced against his will / Is of the same opinion still.)
-
 > *"Oán không bao giờ diệt được oán, chỉ có tình thương yêu mới diệt được oán."* - Đức Phật
-
 > *"Hãy nhượng bộ lớn trong những vấn đề nhỏ, và nhượng bộ nhỏ trong những vấn đề lớn."*

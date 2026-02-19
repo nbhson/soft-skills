@@ -38,9 +38,12 @@ Sự dịu dàng và thân thiện luôn mạnh hơn vũ lực và thịnh nộ.
 3. **Giảm tông giọng:** Khi người khác to tiếng, bạn hãy nói nhỏ nhẹ. Nước mềm thắng đá cứng.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Nhờ vả đồng nghiệp:** Đừng nói: *"Ê, fix cái bug này coi"*. Mệnh lệnh chỉ tạo ra sự phản kháng ngầm. Hãy nói: *"Chào buổi sáng, dạo này khỏe không? Cái module thanh toán cậu làm lần trước chạy mượt lắm (khen ngợi). Có một cái bug nhỏ mới phát sinh liên quan đến nó (vấn đề), cậu rảnh xem qua giúp mình chút được không? Cậu rành cái này nhất (sự tôn trọng)"*.
-- **Tương tác với Team khác:** Khi API của team bạn bị lỗi, đừng gửi email chửi bới cc cả công ty. Hãy nhắn riêng: *"Chào team, mình đang tích hợp API này và gặp chút vấn đề. Không biết mình có gọi sai chỗ nào không hay service đang có vấn đề gì? Nhờ team check giúp mình với"*. Sự thân thiện này sẽ giúp ticket của bạn được ưu tiên giải quyết nhanh hơn cả quy trình chính thức.
-- **Góp ý quy trình:** Khi muốn thay đổi quy trình làm việc tồi tệ, đừng bắt đầu bằng: *"Cái quy trình này ngu ngốc quá"*. Hãy bắt đầu bằng: *"Tôi thấy nỗ lực của mọi người thời gian qua rất tuyệt vời. Tôi có một ý tưởng nhỏ có thể giúp chúng ta làm việc nhẹ nhàng hơn nữa..."*.
+1. **Nhờ vả đồng nghiệp:** Đừng nói: *"Ê, fix cái bug này coi"*. Mệnh lệnh chỉ tạo ra sự phản kháng ngầm. Hãy nói: *"Chào buổi sáng, dạo này khỏe không? Cái module thanh toán cậu làm lần trước chạy mượt lắm (khen ngợi). Có một cái bug nhỏ mới phát sinh liên quan đến nó (vấn đề), cậu rảnh xem qua giúp mình chút được không? Cậu rành cái này nhất (sự tôn trọng)"*.
+2. **Tương tác với Team khác:** Khi API của team bạn bị lỗi, đừng gửi email chửi bới cc cả công ty. Hãy nhắn riêng: *"Chào team, mình đang tích hợp API này và gặp chút vấn đề. Không biết mình có gọi sai chỗ nào không hay service đang có vấn đề gì? Nhờ team check giúp mình với"*. Sự thân thiện này sẽ giúp ticket của bạn được ưu tiên giải quyết nhanh hơn cả quy trình chính thức.
+3. **Góp ý quy trình:** Khi muốn thay đổi quy trình làm việc tồi tệ, đừng bắt đầu bằng: *"Cái quy trình này ngu ngốc quá"*. Hãy bắt đầu bằng: *"Tôi thấy nỗ lực của mọi người thời gian qua rất tuyệt vời. Tôi có một ý tưởng nhỏ có thể giúp chúng ta làm việc nhẹ nhàng hơn nữa..."*.
+4. **Code Review Tone:** Trước khi đưa ra hàng tá comment bắt bẻ, hãy bắt đầu bằng một lời khen: *"Cảm ơn bạn đã implement feature phức tạp này, logic phần xử lý chuỗi rất gọn gàng. Có vài chỗ mình nghĩ có thể tối ưu thêm..."*. Lời mở đầu thân thiện giúp người nghe hạ thấp sự phòng thủ và dễ tiếp thu góp ý hơn.
+5. **Onboarding:** Một email chào mừng nồng nhiệt hoặc một tin nhắn *"Chào mừng em đến với team, tụi anh rất vui vì có em"* sẽ tạo ấn tượng tốt đẹp ban đầu, giúp nhân viên mới hòa nhập nhanh hơn và cam kết lâu dài hơn.
+6. **Escalation:** Khi phải leo thang vấn đề lên cấp trên vì một team khác block mình. Đừng mách lẻo kiểu *"Team A làm ăn tắc trách"*. Hãy nói: *"Em biết Team A đang quá tải với nhiều dự án. Tuy nhiên, dự án bên em đang phụ thuộc vào phần này. Sếp có thể tác động giúp để ưu tiên..."*. Giữ hòa khí ngay cả khi đang "đánh nhau".
 
 ---
 ## Trích dẫn hay từ tác giả

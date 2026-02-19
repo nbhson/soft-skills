@@ -1,48 +1,48 @@
 # Chương 6: Sự lễ phép
 
-> **Nguyên Tắc Cốt Lõi:** Hãy lịch sự với người thân trong nhà. "Lễ phép là dầu bôi trơn của cỗ máy gia đình".
+> **Nguyên Tắc Cốt Lõi:** Hãy giữ gìn sự lễ độ (Courtesy).
 
 ### Phân tích chiều sâu (Deep Analysis)
-Carnegie nói về **Văn hóa ứng xử gia đình**.
-- **Nghịch lý:** Chúng ta lịch sự với người lạ (người không quan trọng) nhưng thô lỗ với người thân (người quan trọng nhất). Chúng ta sẵn sàng xin lỗi người đi đường khi va phải họ, nhưng lại quát vợ khi cô ấy làm vỡ cái bát.
-- **Sự tàn phá:** Sự thô lỗ, cộc lốc, vô duyên là những hạt cát làm hỏng cỗ máy hôn nhân. Nó bào mòn sự tôn trọng.
-- **Giải pháp:** Hãy đối xử với người bạn đời như một vị khách quý.
+Carnegie nói về **Dầu bôi trơn xã hội**.
+- **Chân lý:** Sự thô lỗ là ung thư của tình yêu. Không ai muốn sống với một người thô lỗ cả đời.
+- **Nghịch lý:** Chúng ta lịch sự với cô bán hàng (người lạ), nhưng lại gắt gỏng với vợ/chồng (người thân nhất). Chúng ta nghĩ rằng hôn nhân cho phép ta được quyền xuề xòa, thô lỗ. Sai lầm! Càng thân thiết càng phải giữ lễ độ để tôn trọng nhau.
+- **Lời nói:** Những từ như "Làm ơn", "Cảm ơn", "Xin lỗi" có sức mạnh hóa giải mọi mâu thuẫn.
 
 ---
 
-## 1. Nghịch lý của sự thô lỗ
-Thật kỳ lạ là chúng ta thường lịch sự với người lạ (nhường ghế xe buýt, nói "xin lỗi", "cảm ơn"), nhưng lại thô lỗ với người mình yêu thương nhất.
-Chúng ta ngắt lời họ, quát tháo họ, mở thư riêng của họ, chế giễu họ. Tại sao? Vì chúng ta nghĩ rằng "người nhà thì cần gì khách sáo".
-Sai lầm! Sự thô lỗ là liều thuốc độc giết chết tình yêu dần dần.
+## 1. Sự thô lỗ phá hủy mọi thứ
+Henry Clay Risner nói: *"Sự lịch sự là đức tính của con tim, nó bỏ qua những cái xấu và tôn vinh những cái tốt ở người khác."*
+Một người chồng có thể là thiên tài, giàu có, nhưng nếu anh ta thô lỗ, cộc cằn, xúc phạm vợ hàng ngày, thì cuộc hôn nhân đó cũng là địa ngục.
+Không ai có thể duy trì tình yêu trong bầu không khí thiếu tôn trọng.
 
-## 2. Lịch sự là dầu bôi trơn
-Hôn nhân giống như một cỗ máy phức tạp. Sự lễ phép chính là dầu bôi trơn giúp cỗ máy vận hành êm ái. Thiếu nó, cỗ máy sẽ nóng lên, ma sát, kêu ken két và cuối cùng là hỏng hóc.
-"Làm ơn", "Cảm ơn", "Xin lỗi" - ba từ thần kỳ này cần được sử dụng nhiều nhất ở NHÀ, chứ không phải ở ngoài đường.
-
-## 3. Câu chuyện thực tế
-- **Henry James:** Một tiểu thuyết gia nổi tiếng. Trong gia đình, ông luôn giữ thái độ lịch thiệp, nhã nhặn với vợ con như với những người khách quý. Ông không bao giờ to tiếng hay sai vặt. Gia đình ông luôn êm ấm và hạnh phúc vì sự tôn trọng lẫn nhau được duy trì.
+## 2. Câu chuyện thực tế
+- **William James:** Nhà tâm lý học vĩ đại. Ông nói: *"Trong giao tiếp hàng ngày, sự lễ phép cũng quan trọng như dầu nhớt trong máy móc vậy"*. Thiếu dầu nhớt, máy sẽ nóng lên, ma sát và hỏng hóc. Thiếu lễ phép, gia đình sẽ lục đục và tan vỡ.
+- **Chuyện cái cửa:** Một người chồng luôn giữ cửa cho vợ mỗi khi ra vào, kéo ghế cho vợ ngồi. Hành động đó tuy nhỏ và "khách sáo" nhưng nó nhắc nhở cả hai người rằng: "Chúng ta trân trọng nhau".
 
 ## 🚫 Những kẻ ngốc thường làm gì?
-- Về nhà là đá thúng đụng nia, mặt nặng mày nhẹ.
-- Sai khiến vợ/chồng như người ở ("Lấy cốc nước đây!").
-- Ngắt lời, cướp lời, chê bai ý kiến của bạn đời trước mặt con cái.
-- Tự tiện xâm phạm sự riêng tư (xem điện thoại, lục ví) mà không xin phép.
+- Ngắt lời người khác thô bạo.
+- Sai vặt vợ/chồng như người ở không có chủ ngữ vị ngữ ("Lấy cốc nước đây!").
+- Quên nói cảm ơn và xin lỗi.
+- Đem sự bực dọc ở công ty về trút lên đầu người thân.
+- Soi mói thư từ, tin nhắn riêng tư của nhau (thiếu tôn trọng quyền riêng tư).
 
-## 4. Hành động áp dụng
-1. **Tôn trọng sự riêng tư:** Đừng tự ý đọc tin nhắn, nhật ký của vợ/chồng. Tôn trọng không gian riêng của họ.
-2. **Lời nói nhã nhặn:** Khi nhờ vợ/chồng làm gì, hãy thêm từ "giúp anh/em", "làm ơn". Khi họ làm xong, hãy nói "cảm ơn".
-3. **Xin lỗi:** Khi làm sai hoặc lỡ lời, hãy xin lỗi ngay lập tức. "Anh xin lỗi" không làm anh thấp đi, nó làm anh đàn ông hơn.
+## 3. Hành động áp dụng
+1. **Từ ngữ ma thuật:** Luôn dùng "Làm ơn", "Cảm ơn", "Xin lỗi", "Em/Anh có phiền không nếu...".
+2. **Lắng nghe:** Không ngắt lời khi người kia đang nói, dù bạn không đồng ý.
+3. **Tôn trọng riêng tư:** Không đọc trộm tin nhắn, nhật ký. Tôn trọng không gian riêng của nhau.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Communication Etiquette (Phép lịch sự giao tiếp):** Dù team có thân thiết đến đâu, cũng đừng bao giờ thô lỗ.
-- **Slack/Email/Ticket:** Luôn dùng *"Please" (Làm ơn/Nhờ)* khi giao task, và *"Thank you" (Cảm ơn)* khi nhận kết quả. Đừng ra lệnh cộc lốc như *"Fix cái này"*, *"Check cái kia"*.
-- **Trong cuộc họp:** Không ngắt lời khi đồng nghiệp đang trình bày ý tưởng, dù bạn thấy nó sai. Hãy đợi họ nói xong rồi mới phản biện một cách lịch sự: *"Mình hiểu ý bạn, tuy nhiên mình có góc nhìn khác thế này..."*.
-- **Code Review:** Thay vì *"Code xấu quá"*, hãy nói *"Đoạn này mình thấy có thể tối ưu hơn chút"*. Lễ phép chính là dầu bôi trơn cho cỗ máy Teamwork vận hành trơn tru.
+1. **Meeting Etiquette (Văn hóa họp):** Không ngắt lời (interrupt) khi người khác đang trình bày ý tưởng, dù bạn thấy nó sai. Hãy đợi họ nói xong rồi mới phản biện: *"Cảm ơn chia sẻ của bạn. Mình có góc nhìn khác thế này..."*.
+2. **Slack/Chat Manners:** Đừng chat cộc lốc (chỉ mỗi chữ "Done", "Fix đi"). Hãy thêm chủ ngữ vị ngữ: *"Mình đã fix xong rồi nhé, bạn check lại giúp mình"*. Sự cộc lốc trên text rất dễ gây hiểu lầm là thái độ chảnh chọe.
+3. **"Làm ơn" và "Cảm ơn":** Khi nhờ Junior làm gì đó, hãy nói: *"Em làm ơn check giúp anh cái log này nhé"*. Khi họ làm xong: *"Cảm ơn em nhiều"*. Đừng nghĩ mình là Senior thì có quyền ra lệnh. Lễ phép tạo ra sự tôn trọng ngược lại (Reciprocity).
+4. **Code Review Politeness:** Thay vì comment: *"Sửa lại tên biến này"*. Hãy comment: *"Phiền bạn đổi tên biến này thành `userId` cho rõ nghĩa hơn được không?"*. Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau.
+5. **Respect Privacy:** Tôn trọng màn hình làm việc của đồng nghiệp. Đừng đứng sau lưng nhìn trộm họ chat. Khi pair programming, nếu họ mở nhầm tab cá nhân, hãy quay mặt đi chỗ khác lịch sự.
+6. **Ping/Tag:** Đừng tag `@channel` hoặc `@here` vô tội vạ cho những việc không khẩn cấp. Đó là sự thô lỗ (làm phiền cả tập thể). Chỉ dùng khi thực sự cần thiết.
 
 ---
 ## Trích dẫn hay từ tác giả
-> *"Sự lễ phép đối với hôn nhân cũng giống như dầu nhớt đối với động cơ xe hơi."*
+> *"Lời nói nhã nhặn, êm ái là dầu bôi trơn cho guồng máy gia đình chạy êm."*
 
-> *"Phu phụ tương kính như tân - Vợ chồng kính trọng nhau như khách quý."*
+> *"Sự lịch sự đối với hôn nhân cũng giống như dầu nhớt đối với động cơ."*
 
-> *"Chúng ta thường lịch sự với người lạ nhưng lại thô lỗ với những người thân yêu nhất của mình. Hãy thay đổi điều đó."*
+> *"Những người cộc cằn đá thúng đụng nia ở nhà nhưng lại tươi cười với người lạ thật là những kẻ đạo đức giả."*

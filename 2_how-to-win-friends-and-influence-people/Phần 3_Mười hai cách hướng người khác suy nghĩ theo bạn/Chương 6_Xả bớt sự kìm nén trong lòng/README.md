@@ -38,9 +38,12 @@ Khi họ giỏi hơn bạn (hoặc bạn để họ cảm thấy thế), họ c�
 3. **Khi bị khiếu nại:** Hãy im lặng tuyệt đối và để họ nói cho đến khi họ hết lời.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Phỏng vấn Ứng viên:** Đừng dành 45 phút để kể về sự vĩ đại của công ty hay của bản thân bạn. Hãy hỏi và để ứng viên nói 70% thời gian. Bạn sẽ hiểu rõ về họ hơn, và họ cũng sẽ cảm thấy được tôn trọng.
-- **Giải quyết xung đột:** Khi đồng nghiệp đang bức xúc, hãy mời họ đi cafe và... im lặng. Hãy để họ xả hết cơn giận, hết ấm ức. Đừng cắt ngang, đừng khuyên bảo vội. Khi xả xong, họ sẽ tự bình tĩnh lại và lúc đó mới sẵn sàng nghe bạn nói.
-- **Họp Brainstorming:** Senior thường có xu hướng áp đặt ý kiến. Hãy kiềm chế. Hãy hỏi: *"Các bạn nghĩ sao về vấn đề này?"* và im lặng chờ đợi. Hãy khuyến khích những bạn hướng nội trong team nói ra ý tưởng của họ. Càng nhiều ý tưởng được nói ra, team càng sáng tạo.
+1. **Phỏng vấn Ứng viên:** Đừng dành 45 phút để kể về sự vĩ đại của công ty hay của bản thân bạn. Hãy hỏi và để ứng viên nói 70% thời gian. Bạn sẽ hiểu rõ về họ hơn, và họ cũng sẽ cảm thấy được tôn trọng.
+2. **Giải quyết xung đột:** Khi đồng nghiệp đang bức xúc, hãy mời họ đi cafe và... im lặng. Hãy để họ xả hết cơn giận, hết ấm ức. Đừng cắt ngang, đừng khuyên bảo vội. Khi xả xong, họ sẽ tự bình tĩnh lại và lúc đó mới sẵn sàng nghe bạn nói.
+3. **Họp Brainstorming:** Senior thường có xu hướng áp đặt ý kiến. Hãy kiềm chế. Hãy hỏi: *"Các bạn nghĩ sao về vấn đề này?"* và im lặng chờ đợi. Hãy khuyến khích những bạn hướng nội trong team nói ra ý tưởng của họ. Càng nhiều ý tưởng được nói ra, team càng sáng tạo.
+4. **Rubber Ducking Listener:** Khi một đồng nghiệp nhờ bạn giúp debug, đừng vội giành lấy bàn phím. Hãy bảo họ: *"Giải thích cho tớ nghe code này chạy thế nào xem"*. Đôi khi, chỉ cần họ được nói, họ sẽ tự tìm ra lỗi (Rubber Ducking). Việc của bạn chỉ là gật đầu và nghe.
+5. **System Design Reviews:** Khi Junior trình bày một thiết kế chưa tốt. Đừng ngắt lời ngay đoạn đầu. Hãy để họ trình bày hết bức tranh (Big Picture) và vision của họ. Đôi khi bạn hiểu sai context, hoặc phần hay ho nằm ở phía sau. Sự kiên nhẫn này giúp bạn đánh giá vấn đề toàn diện hơn.
+6. **User Feedback:** Khi User báo lỗi, họ thường kèm theo rất nhiều cảm xúc (bực bội, thất vọng). Đừng chặn họng họ bằng câu *"Gửi log đây"*. Hãy để họ trút hết sự thất vọng về sản phẩm. Sau khi họ "xả" xong, họ sẽ rất hợp tác để giúp bạn reproduce bug.
 
 ---
 ## Trích dẫn hay từ tác giả

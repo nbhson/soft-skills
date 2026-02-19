@@ -36,9 +36,12 @@ Vì vậy, cách duy nhất để gây thiện cảm là: **Quên bản thân đ
 3. **Thực sự lắng nghe:** Khi ai đó kể chuyện, hãy bỏ điện thoại xuống và lắng nghe. Hỏi thêm về chi tiết câu chuyện của họ.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Onboarding:** Khi có nhân viên mới, đừng chỉ ném cho họ cái doc setup môi trường và bảo "Đọc đi". Hãy dành thời gian ngồi cùng, hỏi han về sở thích, background của họ, giúp họ setup máy. Sự quan tâm ban đầu này tạo ra sự gắn kết cực lớn.
-- **Team Bonding:** Đừng chỉ nói chuyện công việc (ticket, bug). Hãy quan tâm xem cuối tuần đồng nghiệp làm gì, con cái họ thế nào (nếu họ muốn chia sẻ). Một team gắn kết về mặt con người sẽ làm việc hiệu quả hơn nhiều.
-- **Chủ động hỗ trợ:** Khi thấy đồng nghiệp bị kẹt (block) quá lâu, hãy chủ động hỏi: *"Có cần tôi giúp gì không?"* hoặc *"Vấn đề này tôi từng gặp, cậu có muốn tôi gợi ý không?"* thay vì chờ họ kêu cứu.
+1. **Onboarding:** Khi có nhân viên mới, đừng chỉ ném cho họ cái doc setup môi trường và bảo "Đọc đi". Hãy dành thời gian ngồi cùng, hỏi han về sở thích, background của họ, giúp họ setup máy. Sự quan tâm ban đầu này tạo ra sự gắn kết cực lớn.
+2. **Team Bonding:** Đừng chỉ nói chuyện công việc (ticket, bug). Hãy quan tâm xem cuối tuần đồng nghiệp làm gì, con cái họ thế nào (nếu họ muốn chia sẻ). Một team gắn kết về mặt con người sẽ làm việc hiệu quả hơn nhiều.
+3. **Chủ động hỗ trợ:** Khi thấy đồng nghiệp bị kẹt (block) quá lâu, hãy chủ động hỏi: *"Có cần tôi giúp gì không?"* hoặc *"Vấn đề này tôi từng gặp, cậu có muốn tôi gợi ý không?"* thay vì chờ họ kêu cứu.
+4. **Stakeholder Empathy:** Khi Business hối thúc deadline, đừng vội cáu gắt "Bọn buôn nước bọt chả biết gì về kỹ thuật". Hãy quan tâm đến áp lực của họ: "Tại sao họ lại cần gấp thế? Có phải sắp có demo cho nhà đầu tư? Hay đối thủ sắp ra feature tương tự?". Hiểu được *Why* sẽ giúp bạn bớt ức chế và tìm ra giải pháp *Win-Win*.
+5. **Networking:** Khi tham gia Tech Conference hay Meetup, đừng chỉ đi phát namecard như cái máy. Hãy hỏi người đối diện: *"Anh đang làm project gì thú vị không?", "Khó khăn lớn nhất team anh đang gặp là gì?"*. Một mối quan hệ chất lượng (được xây dựng trên sự quan tâm thật sự) quý giá hơn 100 cái namecard xã giao.
+6. **User Interviews:** Nếu có cơ hội, hãy tham gia các buổi phỏng vấn người dùng hoặc User Testing. Nhìn thấy một người dùng thật sự vật lộn (struggle) với tính năng bạn code ra sẽ mang lại sự thấu cảm (Empathy) mà không một file requirement nào làm được. Bạn sẽ code bằng *trái tim* chứ không chỉ bằng *cái đầu*.
 
 ---
 ## Trích dẫn hay từ tác giả

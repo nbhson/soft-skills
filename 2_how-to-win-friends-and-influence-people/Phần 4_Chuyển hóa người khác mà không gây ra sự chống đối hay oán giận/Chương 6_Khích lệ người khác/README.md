@@ -35,9 +35,12 @@ Lời khen cụ thể cho thấy bạn thực sự quan tâm và quan sát. Nó 
 3. **Khen công khai:** Lời khen được nói trước đám đông có sức mạnh gấp bội.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Junior mới vào:** *"Hôm nay em setup xong môi trường dev rồi à? Nhanh đấy! Hồi xưa anh mất cả ngày mới xong. Em tiếp thu nhanh đấy chứ."*. Lời khen nhỏ này sẽ giúp bạn Junior tự tin hơn rất nhiều trong những ngày đầu bỡ ngỡ.
-- **Cải thiện code:** *"Code hôm nay em viết gọn gàng hơn hẳn tuần trước rồi đấy. Chỗ dùng `Array.map` kia rất thông minh. Cứ thế phát huy nhé."*.
-- **Fix bug:** *"Em fix được cái bug memory leak đó rồi à? Tuyệt vời! Anh đau đầu với nó cả tuần nay mà chưa ra. Em có tố chất debug tốt đấy."*.
+1. **Junior mới vào:** *"Hôm nay em setup xong môi trường dev rồi à? Nhanh đấy! Hồi xưa anh mất cả ngày mới xong. Em tiếp thu nhanh đấy chứ."*. Lời khen nhỏ này sẽ giúp bạn Junior tự tin hơn rất nhiều trong những ngày đầu bỡ ngỡ.
+2. **Cải thiện code:** *"Code hôm nay em viết gọn gàng hơn hẳn tuần trước rồi đấy. Chỗ dùng `Array.map` kia rất thông minh. Cứ thế phát huy nhé."*.
+3. **Fix bug:** *"Em fix được cái bug memory leak đó rồi à? Tuyệt vời! Anh đau đầu với nó cả tuần nay mà chưa ra. Em có tố chất debug tốt đấy."*.
+4. **Soft Skill Improvement:** *"Bài presentation hôm nay em nói rất tự tin, slide cũng clear hơn hẳn lần trước. Anh thích cách em dùng biểu đồ để giải thích luồng data. Rất dễ hiểu"*. Khen ngợi sự tiến bộ về kỹ năng mềm quan trọng không kém kỹ năng cứng.
+5. **Slow Progress (Tiến bộ chậm):** Với những bạn học chậm. *"Anh thấy em bắt đầu nắm được concepts của Redux rồi đấy. Cái reducer này em viết đúng logic rồi nè. Cứ tiếp tục nhé, sắp thành thạo rồi"*. Sự ghi nhận này ngăn họ bỏ cuộc giữa chừng.
+6. **Documentation/Comments:** *"Cảm ơn em đã comment giải thích chỗ thuật toán phức tạp này nhé. Nhờ có nó mà anh review code nhanh hơn hẳn. Thói quen tốt đấy"*. Những việc "nhỏ nhặt" nhưng có ích cần được tuyên dương để duy trì.
 
 ---
 ## Trích dẫn hay từ tác giả

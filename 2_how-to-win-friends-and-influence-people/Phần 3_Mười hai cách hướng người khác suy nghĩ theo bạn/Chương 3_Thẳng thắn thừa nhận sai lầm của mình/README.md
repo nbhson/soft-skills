@@ -37,9 +37,12 @@ Bằng cách tự nhận lỗi, Carnegie đã biến một người thi hành lu
 3. **Nhận lỗi nhanh:** Đừng đợi người ta đưa ra bằng chứng mới nhận. Hãy nhận ngay khi biết mình sai. Tốc độ nhận lỗi tỷ lệ thuận với mức độ được tha thứ.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Sự cố Production:** Khi bạn push nhầm config làm sập server, đừng hoảng loạn tìm cách đổ lỗi cho DevOps hay AWS. Hãy dũng cảm nói: *"Tôi đã push nhầm config. Tôi đang rollback ngay lập tức. Xin lỗi mọi người, tôi sẽ viết báo cáo (post-mortem) chi tiết sau"*. Sự bình tĩnh và dũng cảm nhận trách nhiệm này sẽ khiến team tin tưởng bạn hơn nhiều.
-- **Estimate sai:** *"Tôi đã đánh giá thấp độ phức tạp của task này nên bị trễ deadline. Đây là lỗi của tôi. Lần sau tôi sẽ buffer thêm thời gian. Tôi sẽ cố gắng hoàn thành vào trưa mai"*. Sếp sẽ đánh giá cao sự trung thực hơn là nghe 1001 lý do.
-- **Bug:** Đừng nói *"Tại máy em chạy được mà"*. Hãy nói: *"Có vẻ tôi đã bỏ sót edge case này. Cảm ơn QA đã tìm ra. Tôi sẽ fix ngay"*.
+1. **Sự cố Production:** Khi bạn push nhầm config làm sập server, đừng hoảng loạn tìm cách đổ lỗi cho DevOps hay AWS. Hãy dũng cảm nói: *"Tôi đã push nhầm config. Tôi đang rollback ngay lập tức. Xin lỗi mọi người, tôi sẽ viết báo cáo (post-mortem) chi tiết sau"*. Sự bình tĩnh và dũng cảm nhận trách nhiệm này sẽ khiến team tin tưởng bạn hơn nhiều.
+2. **Estimate sai:** *"Tôi đã đánh giá thấp độ phức tạp của task này nên bị trễ deadline. Đây là lỗi của tôi. Lần sau tôi sẽ buffer thêm thời gian. Tôi sẽ cố gắng hoàn thành vào trưa mai"*. Sếp sẽ đánh giá cao sự trung thực hơn là nghe 1001 lý do.
+3. **Bug:** Đừng nói *"Tại máy em chạy được mà"*. Hãy nói: *"Có vẻ tôi đã bỏ sót edge case này. Cảm ơn QA đã tìm ra. Tôi sẽ fix ngay"*.
+4. **Lead by Example:** Khi một Tech Lead đứng trước cả team và nói *"Quyết định chọn thư viện này là sai lầm của anh, nó khiến chúng ta gặp rắc rối bây giờ"*. Hành động đó không làm anh ta mất uy tín, ngược lại, nó xây dựng một văn hóa **Intellectual Honesty** (Sự trung thực trí tuệ). Junior sẽ học được rằng: Sai lầm là một phần của sự phát triển, miễn là chúng ta dám nhận và sửa.
+5. **Post-Mortem Culture:** Trong các báo cáo sự cố (RCA), hãy là người đầu tiên nhận trách nhiệm về phần của mình. *"Root cause: Tôi đã thiếu test case cho trường hợp null"*. Điều này ngăn chặn văn hóa "Witch Hunt" (Săn phù thủy/Tìm người đổ lỗi) và hướng sự tập trung vào việc cải tiến quy trình.
+6. **Humanize Leadership:** Thừa nhận "Tôi không biết" hoặc "Tôi đã nhầm" làm cho bạn trở nên "người" hơn, dễ gần hơn. Một Senior biết tuốt và không bao giờ sai là một người đáng sợ và khó làm việc cùng.
 
 ---
 ## Trích dẫn hay từ tác giả

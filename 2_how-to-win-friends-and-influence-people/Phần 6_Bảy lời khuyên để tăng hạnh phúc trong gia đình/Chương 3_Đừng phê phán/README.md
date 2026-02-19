@@ -31,8 +31,12 @@ Trước khi mở miệng chê bai:
 3. **Tự hỏi:** "Lời nói này có giúp ích gì không, hay chỉ để mình sướng miệng?".
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Blame Culture (Văn hóa đổ lỗi):** Khi hệ thống sập (Incident), phản ứng đầu tiên của bạn là gì? "Thằng nào push code lỗi?", "Tại thằng A hay thằng B?". Nếu vậy, bạn đang tạo ra môi trường sợ hãi. Senior Dev phải loại bỏ sự phê phán cá nhân. Thay vì "Ai làm?", hãy hỏi "Cái gì làm?" (Hệ thống thiếu check gì? Quy trình hổng chỗ nào?). Hãy xây dựng **Psychological Safety** (Sự an toàn tâm lý) để mọi người dám thừa nhận sai lầm và sửa sai thay vì giấu giếm.
-- **Post-mortem:** Trong buổi họp rút kinh nghiệm sau sự cố (Post-mortem), tuyệt đối không chỉ trích cá nhân. Tập trung vào cải tiến quy trình. "Chúng ta học được gì từ vụ này?".
+1. **Blame Culture (Văn hóa đổ lỗi):** Khi hệ thống sập (Incident), phản ứng đầu tiên của bạn là gì? "Thằng nào push code lỗi?", "Tại thằng A hay thằng B?". Nếu vậy, bạn đang tạo ra môi trường sợ hãi. Senior Dev phải loại bỏ sự phê phán cá nhân. Thay vì "Ai làm?", hãy hỏi "Cái gì làm?" (Hệ thống thiếu check gì? Quy trình hổng chỗ nào?). Hãy xây dựng **Psychological Safety** (Sự an toàn tâm lý) để mọi người dám thừa nhận sai lầm và sửa sai thay vì giấu giếm.
+2. **Post-mortem:** Trong buổi họp rút kinh nghiệm sau sự cố (Post-mortem), tuyệt đối không chỉ trích cá nhân. Tập trung vào cải tiến quy trình. "Chúng ta học được gì từ vụ này?".
+3. **Constructive Feedback:** Thay vì nói *"Code này lởm quá, khó đọc kinh khủng"*. Hãy nói *"Code này đang hơi phức tạp để bảo trì sau này, em có thể tách hàm hoặc thêm comment để dễ hiểu hơn không?"*. Phê bình code, không phê bình người viết code.
+4. **Public Shaming:** Không bao giờ mắng Junior trong group chat chung (Slack/Discord) kiểu: *"Sao em lại commit cái file rác này lên?"*. Họ sẽ xấu hổ và thù hận bạn. Hãy nhắn tin riêng (DM) để nhắc nhở nhẹ nhàng. Giữ thể diện cho đồng đội là luật bất thành văn.
+5. **Client/PO Feedback:** Đừng chê bai yêu cầu của khách hàng trước mặt team: *"Khách hàng này ngáo thật, đòi hỏi vô lý"*. Thái độ này của Lead sẽ làm cả team chán nản và coi thường khách hàng. Hãy nói: *"Yêu cầu này hơi thách thức về mặt kỹ thuật và business logic hơi lạ, nhưng hãy cùng xem lý do tại sao họ cần nó nhé"*.
+6. **Code Review Tone:** Sử dụng câu hỏi thay vì câu mệnh lệnh. *"Chỗ này có nên dùng Set thay vì List để tăng tốc độ tìm kiếm không?"* (Gợi ý) thay vì *"Dùng Set chỗ này đi!"* (Ra lệnh).
 
 ---
 ## Trích dẫn hay từ tác giả

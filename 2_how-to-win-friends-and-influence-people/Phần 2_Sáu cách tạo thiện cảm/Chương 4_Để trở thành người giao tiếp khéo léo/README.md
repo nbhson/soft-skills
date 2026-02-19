@@ -37,9 +37,12 @@ Một người hòa giải được cử đến. Anh ta không tranh cãi, chỉ
 2. **Đặt câu hỏi về thành tựu:** "Làm thế nào bạn đạt được điều đó?", "Kỷ niệm đáng nhớ nhất của bạn là gì?". Mọi người đều thích nói về thành công của mình.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Requirement Gathering (Lấy yêu cầu):** Khi PM hoặc User than phiền về vấn đề, hãy lắng nghe kỹ trước khi nhảy vào giải pháp kỹ thuật. Đừng vội nói *"Cái này dễ, dùng Redis là xong"*. Hãy hỏi: *"Vấn đề này ảnh hưởng thế nào đến quy trình làm việc của anh?"*. Hiểu rõ vấn đề (Problem) là 50% giải pháp.
-- **1-on-1 với Junior:** Khi mentoring, hãy lắng nghe tâm tư, khó khăn của mentee. Đừng biến buổi 1-on-1 thành buổi thuyết giảng về "Kinh nghiệm thời trẻ của anh". Hãy để họ nói về nỗi sợ, về hy vọng của họ.
-- **Trong cuộc họp:** Đừng ngắt lời người khác, dù bạn nghĩ ý kiến mình hay hơn. Hãy ghi chú lại và nói *"Tôi rất thích ý của bạn A, và tôi muốn bổ sung thêm..."*. Ai cũng thích người biết tôn trọng ý kiến của mình.
+1. **Requirement Gathering (Lấy yêu cầu):** Khi PM hoặc User than phiền về vấn đề, hãy lắng nghe kỹ trước khi nhảy vào giải pháp kỹ thuật. Đừng vội nói *"Cái này dễ, dùng Redis là xong"*. Hãy hỏi: *"Vấn đề này ảnh hưởng thế nào đến quy trình làm việc của anh?"*. Hiểu rõ vấn đề (Problem) là 50% giải pháp.
+2. **1-on-1 với Junior:** Khi mentoring, hãy lắng nghe tâm tư, khó khăn của mentee. Đừng biến buổi 1-on-1 thành buổi thuyết giảng về "Kinh nghiệm thời trẻ của anh". Hãy để họ nói về nỗi sợ, về hy vọng của họ.
+3. **Trong cuộc họp:** Đừng ngắt lời người khác, dù bạn nghĩ ý kiến mình hay hơn. Hãy ghi chú lại và nói *"Tôi rất thích ý của bạn A, và tôi muốn bổ sung thêm..."*. Ai cũng thích người biết tôn trọng ý kiến của mình.
+4. **Active Listening in Code Review:** Đừng chỉ skim code rồi comment bắt bẻ syntax. Hãy "lắng nghe" đoạn code: Tại sao tác giả viết thế này? Logic này giải quyết edge case nào? Hãy đọc kỹ description của PR. Đôi khi tác giả đã giải thích lý do `Hack` ở đó rồi, nếu bạn không đọc mà comment hỏi lại thì rất thiếu tôn trọng.
+5. **Rubber Ducking Listener:** Khi đồng nghiệp đang bế tắc và quay sang nói chuyện với bạn. Hãy bỏ tai nghe ra và thực sự lắng nghe (hoặc hẹn 10p sau nếu đang bận). Đôi khi họ không cần bạn giải quyết, họ chỉ cần bạn nghe để họ tự sắp xếp lại suy nghĩ (Rubber Duck Debugging). Sự hiện diện của bạn giúp họ thông suốt.
+6. **Silent Meetings (Amazon Style):** Khuyến khích văn hóa "Đọc trước khi nói". Trong 15p đầu cuộc họp, tất cả im lặng đọc document. Điều này giúp mọi người "lắng nghe" hết ý tưởng của tác giả một cách trọn vẹn trước khi tranh luận. Nó công bằng cho những người hướng nội (viết giỏi hơn nói) và giảm bớt sự ồn ào của những người thích to mồm nhưng rỗng tuếch.
 
 ---
 ## Trích dẫn hay từ tác giả

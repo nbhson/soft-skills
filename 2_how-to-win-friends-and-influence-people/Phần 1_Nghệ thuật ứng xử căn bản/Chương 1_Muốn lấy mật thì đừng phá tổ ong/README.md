@@ -50,9 +50,12 @@ Thay vì lên án người khác, hãy cố gắng hiểu họ. Hãy tìm hiểu
 3. **Khen ngợi trước:** Nếu bắt buộc phải góp ý, hãy bắt đầu bằng sự thấu hiểu và ghi nhận những nỗ lực của họ trước.
 
 ## 👨‍💻 Áp dụng cho Senior Developer
-- **Code Review:** Thay vì comment "Code này tệ quá", "Logic sai bét", hãy hỏi: *"Tại sao bạn lại chọn cách tiếp cận này? Có cách nào tối ưu hơn không?"*. Khi tìm thấy bug, đừng blame (đổ lỗi), hãy tập trung vào giải pháp.
-- **Mentorship:** Khi Junior làm sập Production, đừng mắng nhiếc. Họ đã đủ hoảng sợ rồi. Hãy ngồi xuống cùng họ fix lỗi, và sau đó hướng dẫn họ cách phòng tránh (viết test, check log). Sự bao dung của bạn sẽ tạo ra một đồng minh trung thành.
-- **Giao tiếp với Tester/QA:** Đừng coi họ là kẻ vạch lá tìm sâu. Hãy coi họ là những người bảo vệ bạn khỏi việc release lỗi. Khi họ báo bug, hãy nói: *"Cảm ơn đã bắt được lỗi này giúp tôi"*.
+1. **Code Review:** Thay vì comment "Code này tệ quá", "Logic sai bét", hãy hỏi: *"Tại sao bạn lại chọn cách tiếp cận này? Có cách nào tối ưu hơn không?"*. Khi tìm thấy bug, đừng blame (đổ lỗi), hãy tập trung vào giải pháp.
+2. **Mentorship:** Khi Junior làm sập Production, đừng mắng nhiếc. Họ đã đủ hoảng sợ rồi. Hãy ngồi xuống cùng họ fix lỗi, và sau đó hướng dẫn họ cách phòng tránh (viết test, check log). Sự bao dung của bạn sẽ tạo ra một đồng minh trung thành.
+3. **Giao tiếp với Tester/QA:** Đừng coi họ là kẻ vạch lá tìm sâu. Hãy coi họ là những người bảo vệ bạn khỏi việc release lỗi. Khi họ báo bug, hãy nói: *"Cảm ơn đã bắt được lỗi này giúp tôi"*.
+4. **Incident Management (Post-Mortem):** Khi xảy ra sự cố, hãy xây dựng văn hóa **"Blameless Post-mortem"**. Tập trung vào **WHAT** (cái gì đã sai: quy trình, công cụ, thiếu test case) thay vì **WHO** (ai làm sai). Nếu bạn chỉ trích cá nhân, lần sau họ sẽ giấu bug thay vì báo cáo.
+5. **Dealing with Legacy Code:** Đừng bao giờ chửi bới: *"Thằng nào viết đống rác này đây?"*. Người viết có thể là sếp hiện tại của bạn, hoặc họ đã phải viết trong áp lực thời gian khủng khiếp. Hãy thấu hiểu ngữ cảnh (context) thời điểm đó và tập trung vào việc refactor để làm nó tốt hơn.
+6. **Performance Feedback:** Khi phải đưa ra phản hồi tiêu cực cho đồng nghiệp, hãy dùng mô hình **SBI (Situation - Behavior - Impact)**. Thay vì dán nhãn: *"Em làm việc lười biếng"*, hãy nói: *"Trong dự án X vừa rồi (Situation), em đã trễ deadline 2 ngày mà không báo trước (Behavior), việc này khiến team QA phải OT cuối tuần để kịp release (Impact)"*. Cách nói này giúp họ nhận ra hành vi cụ thể cần sửa mà không cảm thấy bị tấn công nhân cách.
 
 ---
 ## Trích dẫn hay từ tác giả
